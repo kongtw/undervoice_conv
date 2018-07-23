@@ -1,0 +1,312 @@
+/usr/bin/python2.7 /home/wangkongtao/python/resnet-spectrogram/resnet_spectro_main.py
+Parsing GraphDef...
+Parsing RunMetadata...
+Parsing OpLog...
+Preparing Views...
+
+=========================Options=============================
+-max_depth                  10000
+-min_bytes                  0
+-min_micros                 0
+-min_params                 0
+-min_float_ops              0
+-device_regexes             .*
+-order_by                   name
+-account_type_regexes       _trainable_variables
+-start_name_regexes         .*
+-trim_name_regexes          
+-show_name_regexes          .*
+-hide_name_regexes          
+-account_displayed_op_only  true
+-select                     params
+-viz                        false
+-dump_to_file               
+
+==================Model Analysis Report======================
+_TFProfRoot (--/463.83k params)
+  init/init_conv/DW (3x3x3x16, 432/432 params)
+  logit/DW (64x5, 320/320 params)
+  logit/biases (5, 5/5 params)
+  unit_1_0/shared_activation/init_bn/beta (16, 16/16 params)
+  unit_1_0/shared_activation/init_bn/gamma (16, 16/16 params)
+  unit_1_0/sub1/conv1/DW (3x3x16x16, 2.30k/2.30k params)
+  unit_1_0/sub2/bn2/beta (16, 16/16 params)
+  unit_1_0/sub2/bn2/gamma (16, 16/16 params)
+  unit_1_0/sub2/conv2/DW (3x3x16x16, 2.30k/2.30k params)
+  unit_1_1/residual_only_activation/init_bn/beta (16, 16/16 params)
+  unit_1_1/residual_only_activation/init_bn/gamma (16, 16/16 params)
+  unit_1_1/sub1/conv1/DW (3x3x16x16, 2.30k/2.30k params)
+  unit_1_1/sub2/bn2/beta (16, 16/16 params)
+  unit_1_1/sub2/bn2/gamma (16, 16/16 params)
+  unit_1_1/sub2/conv2/DW (3x3x16x16, 2.30k/2.30k params)
+  unit_1_2/residual_only_activation/init_bn/beta (16, 16/16 params)
+  unit_1_2/residual_only_activation/init_bn/gamma (16, 16/16 params)
+  unit_1_2/sub1/conv1/DW (3x3x16x16, 2.30k/2.30k params)
+  unit_1_2/sub2/bn2/beta (16, 16/16 params)
+  unit_1_2/sub2/bn2/gamma (16, 16/16 params)
+  unit_1_2/sub2/conv2/DW (3x3x16x16, 2.30k/2.30k params)
+  unit_1_3/residual_only_activation/init_bn/beta (16, 16/16 params)
+  unit_1_3/residual_only_activation/init_bn/gamma (16, 16/16 params)
+  unit_1_3/sub1/conv1/DW (3x3x16x16, 2.30k/2.30k params)
+  unit_1_3/sub2/bn2/beta (16, 16/16 params)
+  unit_1_3/sub2/bn2/gamma (16, 16/16 params)
+  unit_1_3/sub2/conv2/DW (3x3x16x16, 2.30k/2.30k params)
+  unit_1_4/residual_only_activation/init_bn/beta (16, 16/16 params)
+  unit_1_4/residual_only_activation/init_bn/gamma (16, 16/16 params)
+  unit_1_4/sub1/conv1/DW (3x3x16x16, 2.30k/2.30k params)
+  unit_1_4/sub2/bn2/beta (16, 16/16 params)
+  unit_1_4/sub2/bn2/gamma (16, 16/16 params)
+  unit_1_4/sub2/conv2/DW (3x3x16x16, 2.30k/2.30k params)
+  unit_2_0/residual_only_activation/init_bn/beta (16, 16/16 params)
+  unit_2_0/residual_only_activation/init_bn/gamma (16, 16/16 params)
+  unit_2_0/sub1/conv1/DW (3x3x16x32, 4.61k/4.61k params)
+  unit_2_0/sub2/bn2/beta (32, 32/32 params)
+  unit_2_0/sub2/bn2/gamma (32, 32/32 params)
+  unit_2_0/sub2/conv2/DW (3x3x32x32, 9.22k/9.22k params)
+  unit_2_1/residual_only_activation/init_bn/beta (32, 32/32 params)
+  unit_2_1/residual_only_activation/init_bn/gamma (32, 32/32 params)
+  unit_2_1/sub1/conv1/DW (3x3x32x32, 9.22k/9.22k params)
+  unit_2_1/sub2/bn2/beta (32, 32/32 params)
+  unit_2_1/sub2/bn2/gamma (32, 32/32 params)
+  unit_2_1/sub2/conv2/DW (3x3x32x32, 9.22k/9.22k params)
+  unit_2_2/residual_only_activation/init_bn/beta (32, 32/32 params)
+  unit_2_2/residual_only_activation/init_bn/gamma (32, 32/32 params)
+  unit_2_2/sub1/conv1/DW (3x3x32x32, 9.22k/9.22k params)
+  unit_2_2/sub2/bn2/beta (32, 32/32 params)
+  unit_2_2/sub2/bn2/gamma (32, 32/32 params)
+  unit_2_2/sub2/conv2/DW (3x3x32x32, 9.22k/9.22k params)
+  unit_2_3/residual_only_activation/init_bn/beta (32, 32/32 params)
+  unit_2_3/residual_only_activation/init_bn/gamma (32, 32/32 params)
+  unit_2_3/sub1/conv1/DW (3x3x32x32, 9.22k/9.22k params)
+  unit_2_3/sub2/bn2/beta (32, 32/32 params)
+  unit_2_3/sub2/bn2/gamma (32, 32/32 params)
+  unit_2_3/sub2/conv2/DW (3x3x32x32, 9.22k/9.22k params)
+  unit_2_4/residual_only_activation/init_bn/beta (32, 32/32 params)
+  unit_2_4/residual_only_activation/init_bn/gamma (32, 32/32 params)
+  unit_2_4/sub1/conv1/DW (3x3x32x32, 9.22k/9.22k params)
+  unit_2_4/sub2/bn2/beta (32, 32/32 params)
+  unit_2_4/sub2/bn2/gamma (32, 32/32 params)
+  unit_2_4/sub2/conv2/DW (3x3x32x32, 9.22k/9.22k params)
+  unit_3_0/residual_only_activation/init_bn/beta (32, 32/32 params)
+  unit_3_0/residual_only_activation/init_bn/gamma (32, 32/32 params)
+  unit_3_0/sub1/conv1/DW (3x3x32x64, 18.43k/18.43k params)
+  unit_3_0/sub2/bn2/beta (64, 64/64 params)
+  unit_3_0/sub2/bn2/gamma (64, 64/64 params)
+  unit_3_0/sub2/conv2/DW (3x3x64x64, 36.86k/36.86k params)
+  unit_3_1/residual_only_activation/init_bn/beta (64, 64/64 params)
+  unit_3_1/residual_only_activation/init_bn/gamma (64, 64/64 params)
+  unit_3_1/sub1/conv1/DW (3x3x64x64, 36.86k/36.86k params)
+  unit_3_1/sub2/bn2/beta (64, 64/64 params)
+  unit_3_1/sub2/bn2/gamma (64, 64/64 params)
+  unit_3_1/sub2/conv2/DW (3x3x64x64, 36.86k/36.86k params)
+  unit_3_2/residual_only_activation/init_bn/beta (64, 64/64 params)
+  unit_3_2/residual_only_activation/init_bn/gamma (64, 64/64 params)
+  unit_3_2/sub1/conv1/DW (3x3x64x64, 36.86k/36.86k params)
+  unit_3_2/sub2/bn2/beta (64, 64/64 params)
+  unit_3_2/sub2/bn2/gamma (64, 64/64 params)
+  unit_3_2/sub2/conv2/DW (3x3x64x64, 36.86k/36.86k params)
+  unit_3_3/residual_only_activation/init_bn/beta (64, 64/64 params)
+  unit_3_3/residual_only_activation/init_bn/gamma (64, 64/64 params)
+  unit_3_3/sub1/conv1/DW (3x3x64x64, 36.86k/36.86k params)
+  unit_3_3/sub2/bn2/beta (64, 64/64 params)
+  unit_3_3/sub2/bn2/gamma (64, 64/64 params)
+  unit_3_3/sub2/conv2/DW (3x3x64x64, 36.86k/36.86k params)
+  unit_3_4/residual_only_activation/init_bn/beta (64, 64/64 params)
+  unit_3_4/residual_only_activation/init_bn/gamma (64, 64/64 params)
+  unit_3_4/sub1/conv1/DW (3x3x64x64, 36.86k/36.86k params)
+  unit_3_4/sub2/bn2/beta (64, 64/64 params)
+  unit_3_4/sub2/bn2/gamma (64, 64/64 params)
+  unit_3_4/sub2/conv2/DW (3x3x64x64, 36.86k/36.86k params)
+  unit_last/final_bn/beta (64, 64/64 params)
+  unit_last/final_bn/gamma (64, 64/64 params)
+
+======================End of Report==========================
+total_params: 463829
+Parsing GraphDef...
+Parsing RunMetadata...
+Parsing OpLog...
+Preparing Views...
+
+=========================Options=============================
+-max_depth                  10000
+-min_bytes                  0
+-min_micros                 0
+-min_params                 0
+-min_float_ops              1
+-device_regexes             .*
+-order_by                   float_ops
+-account_type_regexes       .*
+-start_name_regexes         .*
+-trim_name_regexes          
+-show_name_regexes          .*
+-hide_name_regexes          
+-account_displayed_op_only  true
+-select                     float_ops
+-viz                        false
+-dump_to_file               
+
+==================Model Analysis Report======================
+_TFProfRoot (0/70.51b flops)
+  unit_2_1/sub2/conv2/Conv2D (2.42b/2.42b flops)
+  unit_3_4/sub2/conv2/Conv2D (2.42b/2.42b flops)
+  unit_3_4/sub1/conv1/Conv2D (2.42b/2.42b flops)
+  unit_3_3/sub2/conv2/Conv2D (2.42b/2.42b flops)
+  unit_3_3/sub1/conv1/Conv2D (2.42b/2.42b flops)
+  unit_3_2/sub2/conv2/Conv2D (2.42b/2.42b flops)
+  unit_3_2/sub1/conv1/Conv2D (2.42b/2.42b flops)
+  unit_3_1/sub2/conv2/Conv2D (2.42b/2.42b flops)
+  unit_3_1/sub1/conv1/Conv2D (2.42b/2.42b flops)
+  unit_3_0/sub2/conv2/Conv2D (2.42b/2.42b flops)
+  unit_2_4/sub2/conv2/Conv2D (2.42b/2.42b flops)
+  unit_2_4/sub1/conv1/Conv2D (2.42b/2.42b flops)
+  unit_2_3/sub2/conv2/Conv2D (2.42b/2.42b flops)
+  unit_2_3/sub1/conv1/Conv2D (2.42b/2.42b flops)
+  unit_2_2/sub2/conv2/Conv2D (2.42b/2.42b flops)
+  unit_2_2/sub1/conv1/Conv2D (2.42b/2.42b flops)
+  unit_2_1/sub1/conv1/Conv2D (2.42b/2.42b flops)
+  unit_2_0/sub2/conv2/Conv2D (2.42b/2.42b flops)
+  unit_1_0/sub1/conv1/Conv2D (2.42b/2.42b flops)
+  unit_1_4/sub2/conv2/Conv2D (2.42b/2.42b flops)
+  unit_1_4/sub1/conv1/Conv2D (2.42b/2.42b flops)
+  unit_1_3/sub2/conv2/Conv2D (2.42b/2.42b flops)
+  unit_1_3/sub1/conv1/Conv2D (2.42b/2.42b flops)
+  unit_1_0/sub2/conv2/Conv2D (2.42b/2.42b flops)
+  unit_1_2/sub2/conv2/Conv2D (2.42b/2.42b flops)
+  unit_1_2/sub1/conv1/Conv2D (2.42b/2.42b flops)
+  unit_1_1/sub2/conv2/Conv2D (2.42b/2.42b flops)
+  unit_1_1/sub1/conv1/Conv2D (2.42b/2.42b flops)
+  unit_3_0/sub1/conv1/Conv2D (1.21b/1.21b flops)
+  unit_2_0/sub1/conv1/Conv2D (1.21b/1.21b flops)
+  init/init_conv/Conv2D (452.98m/452.98m flops)
+  logit/xw_plus_b (640/82.56k flops)
+    logit/xw_plus_b/MatMul (81.92k/81.92k flops)
+  gradients/logit/xw_plus_b/MatMul_grad/MatMul_1 (81.92k/81.92k flops)
+  gradients/logit/xw_plus_b/MatMul_grad/MatMul (81.92k/81.92k flops)
+
+======================End of Report==========================
+INFO:tensorflow:Create CheckpointSaverHook.
+2017-05-07 00:05:42.164804: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-07 00:05:42.164826: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-07 00:05:42.164830: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-07 00:05:42.164833: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-05-07 00:05:42.164835: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+INFO:tensorflow:Restoring parameters from /home/wangkongtao/python/resnet-spectrogram/model.ckpt-10
+INFO:tensorflow:Saving checkpoints for 11 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:loss = 1.29304, step = 11, precision = 0.429688
+INFO:tensorflow:Saving checkpoints for 44 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 77 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 110 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.0542542
+INFO:tensorflow:loss = 1.17587, step = 111, precision = 0.554688 (1841.829 sec)
+INFO:tensorflow:Saving checkpoints for 143 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 176 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 209 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.0546014
+INFO:tensorflow:loss = 1.12256, step = 211, precision = 0.578125 (1831.454 sec)
+INFO:tensorflow:Saving checkpoints for 242 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 275 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 308 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.0546615
+INFO:tensorflow:loss = 0.934051, step = 311, precision = 0.640625 (1829.440 sec)
+INFO:tensorflow:Saving checkpoints for 341 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 374 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 407 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.0546296
+INFO:tensorflow:loss = 1.12695, step = 411, precision = 0.609375 (1830.507 sec)
+INFO:tensorflow:Saving checkpoints for 440 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 473 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 506 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.054543
+INFO:tensorflow:loss = 0.993689, step = 511, precision = 0.585938 (1833.416 sec)
+INFO:tensorflow:Saving checkpoints for 539 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 572 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 605 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.0544705
+INFO:tensorflow:loss = 1.046, step = 611, precision = 0.59375 (1835.856 sec)
+INFO:tensorflow:Saving checkpoints for 638 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 671 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 704 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.0544103
+INFO:tensorflow:loss = 1.00925, step = 711, precision = 0.601562 (1837.889 sec)
+INFO:tensorflow:Saving checkpoints for 737 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 770 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 803 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.0544955
+INFO:tensorflow:loss = 0.929853, step = 811, precision = 0.625 (1835.016 sec)
+INFO:tensorflow:Saving checkpoints for 836 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 869 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 902 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.054545
+INFO:tensorflow:loss = 0.953701, step = 911, precision = 0.640625 (1833.348 sec)
+INFO:tensorflow:Saving checkpoints for 935 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 968 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1001 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.0547091
+INFO:tensorflow:loss = 0.875146, step = 1011, precision = 0.703125 (1827.851 sec)
+INFO:tensorflow:Saving checkpoints for 1034 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1067 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1100 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.054477
+INFO:tensorflow:loss = 1.00754, step = 1111, precision = 0.703125 (1835.637 sec)
+INFO:tensorflow:Saving checkpoints for 1133 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1166 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1199 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.0545088
+INFO:tensorflow:loss = 0.847436, step = 1211, precision = 0.726562 (1834.566 sec)
+INFO:tensorflow:Saving checkpoints for 1232 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1265 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1298 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.0545856
+INFO:tensorflow:loss = 1.06485, step = 1311, precision = 0.554688 (1831.986 sec)
+INFO:tensorflow:Saving checkpoints for 1331 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1364 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1397 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.0545807
+INFO:tensorflow:loss = 0.904771, step = 1411, precision = 0.679688 (1832.149 sec)
+INFO:tensorflow:Saving checkpoints for 1430 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1463 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1496 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.0544593
+INFO:tensorflow:loss = 0.936243, step = 1511, precision = 0.65625 (1836.233 sec)
+INFO:tensorflow:Saving checkpoints for 1529 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1562 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1595 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.054554
+INFO:tensorflow:loss = 0.840824, step = 1611, precision = 0.679688 (1833.046 sec)
+INFO:tensorflow:Saving checkpoints for 1628 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1661 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1694 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.0546029
+INFO:tensorflow:loss = 0.913517, step = 1711, precision = 0.609375 (1831.406 sec)
+INFO:tensorflow:Saving checkpoints for 1727 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1760 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1793 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.0544912
+INFO:tensorflow:loss = 0.808594, step = 1811, precision = 0.710938 (1835.159 sec)
+INFO:tensorflow:Saving checkpoints for 1826 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1859 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1892 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.0543716
+INFO:tensorflow:loss = 0.820752, step = 1911, precision = 0.65625 (1839.194 sec)
+INFO:tensorflow:Saving checkpoints for 1925 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1958 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 1991 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.0543904
+INFO:tensorflow:loss = 0.862333, step = 2011, precision = 0.648438 (1838.560 sec)
+INFO:tensorflow:Saving checkpoints for 2024 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 2057 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 2090 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.0544439
+INFO:tensorflow:loss = 0.833638, step = 2111, precision = 0.710938 (1836.753 sec)
+INFO:tensorflow:Saving checkpoints for 2123 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 2156 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 2189 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.0545526
+INFO:tensorflow:loss = 0.898022, step = 2211, precision = 0.632812 (1833.095 sec)
+INFO:tensorflow:Saving checkpoints for 2222 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 2255 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:Saving checkpoints for 2288 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+INFO:tensorflow:global_step/sec: 0.0546548
+INFO:tensorflow:loss = 0.889841, step = 2311, precision = 0.632812 (1829.666 sec)
+INFO:tensorflow:Saving checkpoints for 2321 into /home/wangkongtao/python/resnet-spectrogram/model.ckpt.
+

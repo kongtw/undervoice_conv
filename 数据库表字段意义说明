@@ -1,0 +1,36 @@
+runtime_prob
++-----------------+---------------+------+-----+---------+-------+
+| Field           | Type          | Null | Key | Default | Extra |
++-----------------+---------------+------+-----+---------+-------+
+| wav_conver_name | varchar(500)  | NO   |     | NULL    |       |录音的绝对路径
+| chunk_name      | varchar(500)  | NO   | PRI | NULL    |       |断句的绝对路径
+| speech_word_num | int(5)        | NO   |     | NULL    |       |说话字数
+| speech_en       | double        | NO   |     | NULL    |       |断句总能量
+| samples_num     | int(10)       | NO   |     | NULL    |       |断句总采样数
+| specgram_name   | varchar(1000) | NO   |     | NULL    |       |断句对应的语谱图绝对路径
+| es_1            | double        | NO   |     | NULL    |       |喜的概率
+| es_2            | double        | NO   |     | NULL    |       |怒的概率
+| es_3            | double        | NO   |     | NULL    |       |哀的概率
+| es_4            | double        | NO   |     | NULL    |       |惧的概率
+| es_5            | double        | NO   |     | NULL    |       |平静的概率
+| as_1            | double        | NO   |     | NULL    |       |正常的概率
+| as_2            | double        | NO   |     | NULL    |       |厌恶的概率
+| speaker_label   | int(1)        | NO   |     | NULL    |       |0为客户,1为客服
+| sp_meth         | int(1)        | NO   |     | NULL    |       |说话人识别方法:1为使用声纹识别,0为聚类; 当为0时,kf_score>ubm_score,表示是客服; 当为1时,ubm_score无意义,kf_score表示聚类的可信程度,越小越好.
+| kf_score        | double        | NO   |     | NULL    |       |客服说话人识别的分数
+| ubm_score       | double        | NO   |     | NULL    |       |客户的说话人识别分数
+| first_chunk     | int(1)        | NO   |     | NULL    |       |是否时第一个断句, 1是,0否
+| wav_index       | varchar(50)   | NO   |     | NULL    |       |流水号
+| bad_flag        | int(1)        | NO   |     | NULL    |       |是否为有问题录音,0表示无问题,1表示有问题
+| bad_prob        | double        | NO   |     | NULL    |       |有问题的分数,越大可信度越高
+| kf_id           | varchar(20)   | NO   |     | NULL    |       |录音对应的客服工号
+| begin_time      | double        | NO   |     | NULL    |       |断句开始时间,单位为秒
+| end_time        | double        | NO   |     | NULL    |       |断句结束时间,单位为秒
+| voice_flag      | int(1)        | NO   |     | NULL    |       |是否时静音;0为静音,不进行处理；1为说话音,进行处理
+| taskkey         | varchar(32)   | NO   | PRI | NULL    |       |该次执行的hash值
+| use_flag        | int(1)        | NO   |     | NULL    |       |进行snr计算后,决定是否对该段录音进行处理;1表示snr符合要求,进行出路,0则不处理
+| detail_flag     | int(1)        | NO   |     | NULL    |       |该段断句是否进行了微观结构的态度判断,1为进行了,0为没有进行.
+| feature_str     | varchar(500)  | NO   |     | NULL    |       |断句以1.6秒的长度为跨度对态度进行识别得到的一个以逗号为分割符号的字符串分数,字符串中的数值越大越好.
+| label_str       | varchar(500)  | NO   |     | NULL    |       |断句以1.6秒的长度为跨度对态度进行识别得到的一个以逗号为分割符号的标志,1表示1.6秒的小长度里面,出现态度问题,0为没有态度问题.
+| bad_count       | int(1)        | NO   |     | NULL    |       |断句进行微观结构分析后发现态度出现问题的次数.
++-----------------+---------------+------+-----+---------+-------+

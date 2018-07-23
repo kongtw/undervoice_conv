@@ -1,0 +1,1847 @@
+Begin world model training
+(SegTools) >> Proceeding label file reading for [SZ31541] <<
+(SegTools) >> Proceeding label file reading for [SZ30835] <<
+(SegTools) >> Proceeding label file reading for [SZ30378] <<
+(SegTools) >> Proceeding label file reading for [SZ28447] <<
+(SegTools) >> Proceeding label file reading for [SZ30745] <<
+(SegTools) >> Proceeding label file reading for [SZ32536] <<
+(SegTools) >> Proceeding label file reading for [SZ30314] <<
+(SegTools) >> Proceeding label file reading for [SZ28128] <<
+(SegTools) >> Proceeding label file reading for [SZ32920] <<
+(SegTools) >> Proceeding label file reading for [SZ30409] <<
+(SegTools) >> Proceeding label file reading for [SZ27417] <<
+(SegTools) >> Proceeding label file reading for [SZ28189] <<
+(SegTools) >> Proceeding label file reading for [SZ30476] <<
+(SegTools) >> Proceeding label file reading for [SZ28402] <<
+(SegTools) >> Proceeding label file reading for [SZ27999] <<
+(SegTools) >> Proceeding label file reading for [SZ28214] <<
+(SegTools) >> Proceeding label file reading for [SZ27751] <<
+(SegTools) >> Proceeding label file reading for [SZ30405] <<
+(SegTools) >> Proceeding label file reading for [SZ27864] <<
+(SegTools) >> Proceeding label file reading for [SZ32273] <<
+(SegTools) >> Proceeding label file reading for [SZ32107] <<
+(SegTools) >> Proceeding label file reading for [SZ30442] <<
+(SegTools) >> Proceeding label file reading for [SZ28136] <<
+(SegTools) >> Proceeding label file reading for [SZ31311] <<
+(SegTools) >> Proceeding label file reading for [SZ30104] <<
+(SegTools) >> Proceeding label file reading for [SZ27500] <<
+(SegTools) >> Proceeding label file reading for [SZ27780] <<
+(SegTools) >> Proceeding label file reading for [SZ28852] <<
+(SegTools) >> Proceeding label file reading for [SZ28869] <<
+(SegTools) >> Proceeding label file reading for [SZ30885] <<
+(SegTools) >> Proceeding label file reading for [SZ27126] <<
+(SegTools) >> Proceeding label file reading for [SZ30830] <<
+(SegTools) >> Proceeding label file reading for [SZ30510] <<
+(SegTools) >> Proceeding label file reading for [SZ27143] <<
+(SegTools) >> Proceeding label file reading for [SZ31055] <<
+(SegTools) >> Proceeding label file reading for [SZ31457] <<
+(SegTools) >> Proceeding label file reading for [SZ28977] <<
+(SegTools) >> Proceeding label file reading for [SZ29859] <<
+(SegTools) >> Proceeding label file reading for [SZ30336] <<
+(SegTools) >> Proceeding label file reading for [SZ32903] <<
+(SegTools) >> Proceeding label file reading for [SZ30258] <<
+(SegTools) >> Proceeding label file reading for [SZ27279] <<
+(SegTools) >> Proceeding label file reading for [SZ27414] <<
+(SegTools) >> Proceeding label file reading for [SZ27555] <<
+(SegTools) >> Proceeding label file reading for [SZ32597] <<
+(SegTools) >> Proceeding label file reading for [SZ28859] <<
+(SegTools) >> Proceeding label file reading for [SZ30555] <<
+(SegTools) >> Proceeding label file reading for [SZ30075] <<
+(SegTools) >> Proceeding label file reading for [SZ31097] <<
+(SegTools) >> Proceeding label file reading for [SZ30973] <<
+(SegTools) >> Proceeding label file reading for [SZ28993] <<
+(SegTools) >> Proceeding label file reading for [SZ30642] <<
+(SegTools) >> Proceeding label file reading for [SZ30756] <<
+(SegTools) >> Proceeding label file reading for [SZ28353] <<
+(SegTools) >> Proceeding label file reading for [SZ27591] <<
+(SegTools) >> Proceeding label file reading for [SZ31696] <<
+(SegTools) >> Proceeding label file reading for [SZ28317] <<
+(SegTools) >> Proceeding label file reading for [SZ31269] <<
+(SegTools) >> Proceeding label file reading for [SZ28347] <<
+(SegTools) >> Proceeding label file reading for [SZ30298] <<
+(SegTools) >> Proceeding label file reading for [SZ30766] <<
+(SegTools) >> Proceeding label file reading for [SZ28173] <<
+(SegTools) >> Proceeding label file reading for [SZ31562] <<
+(SegTools) >> Proceeding label file reading for [SZ27937] <<
+(SegTools) >> Proceeding label file reading for [SZ27975] <<
+(SegTools) >> Proceeding label file reading for [SZ28264] <<
+(SegTools) >> Proceeding label file reading for [SZ30277] <<
+(SegTools) >> Proceeding label file reading for [SZ30553] <<
+(SegTools) >> Proceeding label file reading for [SZ27940] <<
+(SegTools) >> Proceeding label file reading for [SZ27253] <<
+(SegTools) >> Proceeding label file reading for [SZ27442] <<
+(SegTools) >> Proceeding label file reading for [SZ29361] <<
+(SegTools) >> Proceeding label file reading for [SZ29003] <<
+(SegTools) >> Proceeding label file reading for [SZ32625] <<
+(SegTools) >> Proceeding label file reading for [SZ29007] <<
+(SegTools) >> Proceeding label file reading for [SZ27991] <<
+(SegTools) >> Proceeding label file reading for [SZ30477] <<
+(SegTools) >> Proceeding label file reading for [SZ30994] <<
+(SegTools) >> Proceeding label file reading for [SZ27978] <<
+(SegTools) >> Proceeding label file reading for [SZ30784] <<
+(SegTools) >> Proceeding label file reading for [SZ31191] <<
+(SegTools) >> Proceeding label file reading for [SZ28836] <<
+(SegTools) >> Proceeding label file reading for [SZ30330] <<
+(SegTools) >> Proceeding label file reading for [SZ31156] <<
+(SegTools) >> Proceeding label file reading for [SZ30744] <<
+(SegTools) >> Proceeding label file reading for [SZ30233] <<
+(SegTools) >> Proceeding label file reading for [SZ28360] <<
+(SegTools) >> Proceeding label file reading for [SZ28249] <<
+(SegTools) >> Proceeding label file reading for [SZ28298] <<
+(SegTools) >> Proceeding label file reading for [SZ27412] <<
+(SegTools) >> Proceeding label file reading for [SZ30037] <<
+(SegTools) >> Proceeding label file reading for [SZ27471] <<
+(SegTools) >> Proceeding label file reading for [SZ27322] <<
+(SegTools) >> Proceeding label file reading for [SZ29776] <<
+(SegTools) >> Proceeding label file reading for [SZ27303] <<
+(SegTools) >> Proceeding label file reading for [SZ27339] <<
+(SegTools) >> Proceeding label file reading for [SZ28817] <<
+(SegTools) >> Proceeding label file reading for [SZ27614] <<
+(SegTools) >> Proceeding label file reading for [SZ32551] <<
+(SegTools) >> Proceeding label file reading for [SZ28676] <<
+(SegTools) >> Proceeding label file reading for [SZ28177] <<
+(SegTools) >> Proceeding label file reading for [SZ27418] <<
+(SegTools) >> Proceeding label file reading for [SZ27131] <<
+(SegTools) >> Proceeding label file reading for [SZ28828] <<
+(SegTools) >> Proceeding label file reading for [SZ31033] <<
+(SegTools) >> Proceeding label file reading for [SZ30441] <<
+(SegTools) >> Proceeding label file reading for [SZ27425] <<
+(SegTools) >> Proceeding label file reading for [SZ30137] <<
+(SegTools) >> Proceeding label file reading for [SZ28858] <<
+(SegTools) >> Proceeding label file reading for [SZ32105] <<
+(SegTools) >> Proceeding label file reading for [SZ32487] <<
+(SegTools) >> Proceeding label file reading for [SZ30190] <<
+(SegTools) >> Proceeding label file reading for [SZ28545] <<
+(SegTools) >> Proceeding label file reading for [SZ32565] <<
+(SegTools) >> Proceeding label file reading for [SZ28686] <<
+(SegTools) >> Proceeding label file reading for [SZ27068] <<
+(SegTools) >> Proceeding label file reading for [SZ27491] <<
+(SegTools) >> Proceeding label file reading for [SZ27760] <<
+(SegTools) >> Proceeding label file reading for [SZ27507] <<
+(SegTools) >> Proceeding label file reading for [SZ30345] <<
+(SegTools) >> Proceeding label file reading for [SZ28451] <<
+(SegTools) >> Proceeding label file reading for [SZ32879] <<
+(SegTools) >> Proceeding label file reading for [SZ32510] <<
+(SegTools) >> Proceeding label file reading for [SZ27179] <<
+(SegTools) >> Proceeding label file reading for [SZ30445] <<
+(SegTools) >> Proceeding label file reading for [SZ30525] <<
+(SegTools) >> Proceeding label file reading for [SZ27548] <<
+(SegTools) >> Proceeding label file reading for [SZ27043] <<
+(SegTools) >> Proceeding label file reading for [SZ30759] <<
+(SegTools) >> Proceeding label file reading for [SZ31307] <<
+(SegTools) >> Proceeding label file reading for [SZ27917] <<
+(SegTools) >> Proceeding label file reading for [SZ27567] <<
+(SegTools) >> Proceeding label file reading for [SZ28682] <<
+(SegTools) >> Proceeding label file reading for [SZ30481] <<
+(SegTools) >> Proceeding label file reading for [SZ30056] <<
+(SegTools) >> Proceeding label file reading for [SZ30236] <<
+(SegTools) >> Proceeding label file reading for [SZ28952] <<
+(SegTools) >> Proceeding label file reading for [SZ27572] <<
+(SegTools) >> Proceeding label file reading for [SZ30377] <<
+(SegTools) >> Proceeding label file reading for [SZ30049] <<
+(SegTools) >> Proceeding label file reading for [SZ31054] <<
+(SegTools) >> Proceeding label file reading for [SZ28872] <<
+(SegTools) >> Proceeding label file reading for [SZ30613] <<
+(SegTools) >> Proceeding label file reading for [SZ30287] <<
+(SegTools) >> Proceeding label file reading for [SZ31430] <<
+(SegTools) >> Proceeding label file reading for [SZ28961] <<
+(SegTools) >> Proceeding label file reading for [SZ28991] <<
+(SegTools) >> Proceeding label file reading for [SZ30720] <<
+(SegTools) >> Proceeding label file reading for [SZ31444] <<
+(SegTools) >> Proceeding label file reading for [SZ28716] <<
+(SegTools) >> Proceeding label file reading for [SZ27482] <<
+(SegTools) >> Proceeding label file reading for [SZ28683] <<
+(SegTools) >> Proceeding label file reading for [SZ27902] <<
+(SegTools) >> Proceeding label file reading for [SZ28218] <<
+(SegTools) >> Proceeding label file reading for [SZ27981] <<
+(SegTools) >> Proceeding label file reading for [SZ28784] <<
+(SegTools) >> Proceeding label file reading for [SZ31328] <<
+(SegTools) >> Proceeding label file reading for [SZ30626] <<
+(SegTools) >> Proceeding label file reading for [SZ30172] <<
+(SegTools) >> Proceeding label file reading for [SZ30238] <<
+(SegTools) >> Proceeding label file reading for [SZ30653] <<
+(SegTools) >> Proceeding label file reading for [SZ32887] <<
+(SegTools) >> Proceeding label file reading for [SZ27380] <<
+(SegTools) >> Proceeding label file reading for [SZ28125] <<
+(SegTools) >> Proceeding label file reading for [SZ30932] <<
+(SegTools) >> Proceeding label file reading for [SZ32542] <<
+(SegTools) >> Proceeding label file reading for [SZ30456] <<
+(SegTools) >> Proceeding label file reading for [SZ30795] <<
+(SegTools) >> Proceeding label file reading for [SZ30256] <<
+(SegTools) >> Proceeding label file reading for [SZ30495] <<
+(SegTools) >> Proceeding label file reading for [SZ31139] <<
+(SegTools) >> Proceeding label file reading for [SZ32101] <<
+(SegTools) >> Proceeding label file reading for [SZ28529] <<
+(SegTools) >> Proceeding label file reading for [SZ30103] <<
+(SegTools) >> Proceeding label file reading for [SZ31309] <<
+(SegTools) >> Proceeding label file reading for [SZ27350] <<
+(SegTools) >> Proceeding label file reading for [SZ27783] <<
+(SegTools) >> Proceeding label file reading for [SZ27755] <<
+(SegTools) >> Proceeding label file reading for [SZ27385] <<
+(SegTools) >> Proceeding label file reading for [SZ31066] <<
+(SegTools) >> Proceeding label file reading for [SZ28237] <<
+(SegTools) >> Proceeding label file reading for [SZ30856] <<
+(SegTools) >> Proceeding label file reading for [SZ27680] <<
+(SegTools) >> Proceeding label file reading for [SZ27560] <<
+(SegTools) >> Proceeding label file reading for [SZ29834] <<
+(SegTools) >> Proceeding label file reading for [SZ28258] <<
+(SegTools) >> Proceeding label file reading for [SZ31563] <<
+(SegTools) >> Proceeding label file reading for [SZ28108] <<
+(SegTools) >> Proceeding label file reading for [SZ28205] <<
+(SegTools) >> Proceeding label file reading for [SZ30467] <<
+(SegTools) >> Proceeding label file reading for [SZ27097] <<
+(SegTools) >> Proceeding label file reading for [SZ28250] <<
+(SegTools) >> Proceeding label file reading for [SZ27903] <<
+(SegTools) >> Proceeding label file reading for [SZ32574] <<
+(SegTools) >> Proceeding label file reading for [SZ30503] <<
+(SegTools) >> Proceeding label file reading for [SZ32092] <<
+(SegTools) >> Proceeding label file reading for [SZ30765] <<
+(SegTools) >> Proceeding label file reading for [SZ30254] <<
+(SegTools) >> Proceeding label file reading for [SZ30733] <<
+(SegTools) >> Proceeding label file reading for [SZ32158] <<
+(SegTools) >> Proceeding label file reading for [SZ31639] <<
+(SegTools) >> Proceeding label file reading for [SZ32596] <<
+(SegTools) >> Proceeding label file reading for [SZ30412] <<
+(SegTools) >> Proceeding label file reading for [SZ27852] <<
+(SegTools) >> Proceeding label file reading for [SZ27788] <<
+(SegTools) >> Proceeding label file reading for [SZ31837] <<
+(SegTools) >> Proceeding label file reading for [SZ30493] <<
+(SegTools) >> Proceeding label file reading for [SZ31356] <<
+(SegTools) >> Proceeding label file reading for [SZ27813] <<
+(SegTools) >> Proceeding label file reading for [SZ27963] <<
+(SegTools) >> Proceeding label file reading for [SZ32465] <<
+(SegTools) >> Proceeding label file reading for [SZ27051] <<
+(SegTools) >> Proceeding label file reading for [SZ27306] <<
+(SegTools) >> Proceeding label file reading for [SZ27313] <<
+(SegTools) >> Proceeding label file reading for [SZ31327] <<
+(SegTools) >> Proceeding label file reading for [SZ31636] <<
+(SegTools) >> Proceeding label file reading for [SZ31358] <<
+(SegTools) >> Proceeding label file reading for [SZ31267] <<
+(SegTools) >> Proceeding label file reading for [SZ30692] <<
+(SegTools) >> Proceeding label file reading for [SZ30373] <<
+(SegTools) >> Proceeding label file reading for [SZ30870] <<
+(SegTools) >> Proceeding label file reading for [SZ31046] <<
+(SegTools) >> Proceeding label file reading for [SZ27348] <<
+(SegTools) >> Proceeding label file reading for [SZ28477] <<
+(SegTools) >> Proceeding label file reading for [SZ30191] <<
+(SegTools) >> Proceeding label file reading for [SZ30192] <<
+(SegTools) >> Proceeding label file reading for [SZ27209] <<
+(SegTools) >> Proceeding label file reading for [SZ27480] <<
+(SegTools) >> Proceeding label file reading for [SZ28804] <<
+(SegTools) >> Proceeding label file reading for [SZ27220] <<
+(SegTools) >> Proceeding label file reading for [SZ30243] <<
+(SegTools) >> Proceeding label file reading for [SZ28151] <<
+(SegTools) >> Proceeding label file reading for [SZ30891] <<
+(SegTools) >> Proceeding label file reading for [SZ27946] <<
+(SegTools) >> Proceeding label file reading for [SZ31057] <<
+(SegTools) >> Proceeding label file reading for [SZ28160] <<
+(SegTools) >> Proceeding label file reading for [SZ31063] <<
+(SegTools) >> Proceeding label file reading for [SZ28917] <<
+(SegTools) >> Proceeding label file reading for [SZ32509] <<
+(SegTools) >> Proceeding label file reading for [SZ30057] <<
+(SegTools) >> Proceeding label file reading for [SZ29192] <<
+(SegTools) >> Proceeding label file reading for [SZ27754] <<
+(SegTools) >> Proceeding label file reading for [SZ27103] <<
+(SegTools) >> Proceeding label file reading for [SZ27678] <<
+(SegTools) >> Proceeding label file reading for [SZ27407] <<
+(SegTools) >> Proceeding label file reading for [SZ30558] <<
+(SegTools) >> Proceeding label file reading for [SZ31225] <<
+(SegTools) >> Proceeding label file reading for [SZ30527] <<
+(SegTools) >> Proceeding label file reading for [SZ28908] <<
+(SegTools) >> Proceeding label file reading for [SZ30755] <<
+(SegTools) >> Proceeding label file reading for [SZ27701] <<
+(SegTools) >> Proceeding label file reading for [SZ27750] <<
+(SegTools) >> Proceeding label file reading for [SZ31271] <<
+(SegTools) >> Proceeding label file reading for [SZ27070] <<
+(SegTools) >> Proceeding label file reading for [SZ29395] <<
+(SegTools) >> Proceeding label file reading for [SZ27646] <<
+(SegTools) >> Proceeding label file reading for [SZ28914] <<
+(SegTools) >> Proceeding label file reading for [SZ30452] <<
+(SegTools) >> Proceeding label file reading for [SZ27967] <<
+(SegTools) >> Proceeding label file reading for [SZ31367] <<
+(SegTools) >> Proceeding label file reading for [SZ28455] <<
+(SegTools) >> Proceeding label file reading for [SZ32562] <<
+(SegTools) >> Proceeding label file reading for [SZ27487] <<
+(SegTools) >> Proceeding label file reading for [SZ28756] <<
+(SegTools) >> Proceeding label file reading for [SZ27127] <<
+(SegTools) >> Proceeding label file reading for [SZ29839] <<
+(SegTools) >> Proceeding label file reading for [SZ27421] <<
+(SegTools) >> Proceeding label file reading for [SZ31134] <<
+(SegTools) >> Proceeding label file reading for [SZ28302] <<
+(SegTools) >> Proceeding label file reading for [SZ30877] <<
+(SegTools) >> Proceeding label file reading for [SZ30565] <<
+(SegTools) >> Proceeding label file reading for [SZ28242] <<
+(SegTools) >> Proceeding label file reading for [SZ28660] <<
+(SegTools) >> Proceeding label file reading for [SZ30474] <<
+(SegTools) >> Proceeding label file reading for [SZ27301] <<
+(SegTools) >> Proceeding label file reading for [SZ32488] <<
+(SegTools) >> Proceeding label file reading for [SZ30058] <<
+(SegTools) >> Proceeding label file reading for [SZ30739] <<
+(SegTools) >> Proceeding label file reading for [SZ30491] <<
+(SegTools) >> Proceeding label file reading for [SZ27460] <<
+(SegTools) >> Proceeding label file reading for [SZ32715] <<
+(SegTools) >> Proceeding label file reading for [SZ31299] <<
+(SegTools) >> Proceeding label file reading for [SZ27544] <<
+(SegTools) >> Proceeding label file reading for [SZ27943] <<
+(SegTools) >> Proceeding label file reading for [SZ32093] <<
+(SegTools) >> Proceeding label file reading for [SZ29030] <<
+(SegTools) >> Proceeding label file reading for [SZ28475] <<
+(SegTools) >> Proceeding label file reading for [SZ27530] <<
+(SegTools) >> Proceeding label file reading for [SZ28306] <<
+(SegTools) >> Proceeding label file reading for [SZ27865] <<
+(SegTools) >> Proceeding label file reading for [SZ27186] <<
+(SegTools) >> Proceeding label file reading for [SZ30950] <<
+(SegTools) >> Proceeding label file reading for [SZ29729] <<
+(SegTools) >> Proceeding label file reading for [SZ29382] <<
+(SegTools) >> Proceeding label file reading for [SZ31478] <<
+(SegTools) >> Proceeding label file reading for [SZ32874] <<
+(SegTools) >> Proceeding label file reading for [SZ30911] <<
+(SegTools) >> Proceeding label file reading for [SZ28652] <<
+(SegTools) >> Proceeding label file reading for [SZ28133] <<
+(SegTools) >> Proceeding label file reading for [SZ31067] <<
+(SegTools) >> Proceeding label file reading for [SZ30644] <<
+(SegTools) >> Proceeding label file reading for [SZ32112] <<
+(SegTools) >> Proceeding label file reading for [SZ32258] <<
+(SegTools) >> Proceeding label file reading for [SZ28416] <<
+(SegTools) >> Proceeding label file reading for [SZ31286] <<
+(SegTools) >> Proceeding label file reading for [SZ32899] <<
+(SegTools) >> Proceeding label file reading for [SZ28930] <<
+(SegTools) >> Proceeding label file reading for [SZ30921] <<
+(SegTools) >> Proceeding label file reading for [SZ28299] <<
+(SegTools) >> Proceeding label file reading for [SZ30465] <<
+(SegTools) >> Proceeding label file reading for [SZ27180] <<
+(SegTools) >> Proceeding label file reading for [SZ29618] <<
+(SegTools) >> Proceeding label file reading for [SZ28575] <<
+(SegTools) >> Proceeding label file reading for [SZ28105] <<
+(SegTools) >> Proceeding label file reading for [SZ28954] <<
+(SegTools) >> Proceeding label file reading for [SZ32549] <<
+(SegTools) >> Proceeding label file reading for [SZ30360] <<
+(SegTools) >> Proceeding label file reading for [SZ27628] <<
+(SegTools) >> Proceeding label file reading for [SZ30598] <<
+(SegTools) >> Proceeding label file reading for [SZ27344] <<
+(SegTools) >> Proceeding label file reading for [SZ27182] <<
+(SegTools) >> Proceeding label file reading for [SZ32330] <<
+(SegTools) >> Proceeding label file reading for [SZ30853] <<
+(SegTools) >> Proceeding label file reading for [SZ30250] <<
+(SegTools) >> Proceeding label file reading for [SZ28810] <<
+(SegTools) >> Proceeding label file reading for [SZ30437] <<
+(SegTools) >> Proceeding label file reading for [SZ27234] <<
+(SegTools) >> Proceeding label file reading for [SZ27601] <<
+(SegTools) >> Proceeding label file reading for [SZ32784] <<
+(SegTools) >> Proceeding label file reading for [SZ30089] <<
+(SegTools) >> Proceeding label file reading for [SZ30052] <<
+(SegTools) >> Proceeding label file reading for [SZ28965] <<
+(SegTools) >> Proceeding label file reading for [SZ32226] <<
+(SegTools) >> Proceeding label file reading for [SZ30341] <<
+(SegTools) >> Proceeding label file reading for [SZ27869] <<
+(SegTools) >> Proceeding label file reading for [SZ32071] <<
+(SegTools) >> Proceeding label file reading for [SZ30894] <<
+(SegTools) >> Proceeding label file reading for [SZ32713] <<
+(SegTools) >> Proceeding label file reading for [SZ28155] <<
+(SegTools) >> Proceeding label file reading for [SZ29798] <<
+(SegTools) >> Proceeding label file reading for [SZ28346] <<
+(SegTools) >> Proceeding label file reading for [SZ28508] <<
+(SegTools) >> Proceeding label file reading for [SZ27005] <<
+(SegTools) >> Proceeding label file reading for [SZ27661] <<
+(SegTools) >> Proceeding label file reading for [SZ30343] <<
+(SegTools) >> Proceeding label file reading for [SZ32586] <<
+(SegTools) >> Proceeding label file reading for [SZ27766] <<
+(SegTools) >> Proceeding label file reading for [SZ28276] <<
+(SegTools) >> Proceeding label file reading for [SZ27810] <<
+(SegTools) >> Proceeding label file reading for [SZ28975] <<
+(SegTools) >> Proceeding label file reading for [SZ27222] <<
+(SegTools) >> Proceeding label file reading for [SZ27992] <<
+(SegTools) >> Proceeding label file reading for [SZ32088] <<
+(SegTools) >> Proceeding label file reading for [SZ30506] <<
+(SegTools) >> Proceeding label file reading for [SZ27090] <<
+(SegTools) >> Proceeding label file reading for [SZ30406] <<
+(SegTools) >> Proceeding label file reading for [SZ30916] <<
+(SegTools) >> Proceeding label file reading for [SZ27221] <<
+(SegTools) >> Proceeding label file reading for [SZ32884] <<
+(SegTools) >> Proceeding label file reading for [SZ30479] <<
+(SegTools) >> Proceeding label file reading for [SZ27608] <<
+(SegTools) >> Proceeding label file reading for [SZ27785] <<
+(SegTools) >> Proceeding label file reading for [SZ28553] <<
+(SegTools) >> Proceeding label file reading for [SZ28147] <<
+(SegTools) >> Proceeding label file reading for [SZ28733] <<
+(SegTools) >> Proceeding label file reading for [SZ28399] <<
+(SegTools) >> Proceeding label file reading for [SZ27632] <<
+(SegTools) >> Proceeding label file reading for [SZ27014] <<
+(SegTools) >> Proceeding label file reading for [SZ27574] <<
+(SegTools) >> Proceeding label file reading for [SZ30389] <<
+(SegTools) >> Proceeding label file reading for [SZ30618] <<
+(SegTools) >> Proceeding label file reading for [SZ28744] <<
+(SegTools) >> Proceeding label file reading for [SZ27683] <<
+(SegTools) >> Proceeding label file reading for [SZ28655] <<
+(SegTools) >> Proceeding label file reading for [SZ28166] <<
+(SegTools) >> Proceeding label file reading for [SZ30048] <<
+(SegTools) >> Proceeding label file reading for [SZ32765] <<
+(SegTools) >> Proceeding label file reading for [SZ28943] <<
+(SegTools) >> Proceeding label file reading for [SZ31028] <<
+(SegTools) >> Proceeding label file reading for [SZ27517] <<
+(SegTools) >> Proceeding label file reading for [SZ32520] <<
+(SegTools) >> Proceeding label file reading for [SZ30746] <<
+(SegTools) >> Proceeding label file reading for [SZ27196] <<
+(SegTools) >> Proceeding label file reading for [SZ28188] <<
+(SegTools) >> Proceeding label file reading for [SZ27078] <<
+(SegTools) >> Proceeding label file reading for [SZ32703] <<
+(SegTools) >> Proceeding label file reading for [SZ30252] <<
+(SegTools) >> Proceeding label file reading for [SZ29838] <<
+(SegTools) >> Proceeding label file reading for [SZ30471] <<
+(SegTools) >> Proceeding label file reading for [SZ27453] <<
+(SegTools) >> Proceeding label file reading for [SZ30072] <<
+(SegTools) >> Proceeding label file reading for [SZ28202] <<
+(SegTools) >> Proceeding label file reading for [SZ27050] <<
+(SegTools) >> Proceeding label file reading for [SZ32792] <<
+(SegTools) >> Proceeding label file reading for [SZ29878] <<
+(SegTools) >> Proceeding label file reading for [SZ30116] <<
+(SegTools) >> Proceeding label file reading for [SZ28635] <<
+(SegTools) >> Proceeding label file reading for [SZ32311] <<
+(SegTools) >> Proceeding label file reading for [SZ27551] <<
+(SegTools) >> Proceeding label file reading for [SZ32591] <<
+(SegTools) >> Proceeding label file reading for [SZ27781] <<
+(SegTools) >> Proceeding label file reading for [SZ27980] <<
+(SegTools) >> Proceeding label file reading for [SZ32928] <<
+(SegTools) >> Proceeding label file reading for [SZ28599] <<
+(SegTools) >> Proceeding label file reading for [SZ27205] <<
+(SegTools) >> Proceeding label file reading for [SZ28413] <<
+(SegTools) >> Proceeding label file reading for [SZ30814] <<
+(SegTools) >> Proceeding label file reading for [SZ30332] <<
+(SegTools) >> Proceeding label file reading for [SZ30304] <<
+(SegTools) >> Proceeding label file reading for [SZ28161] <<
+(SegTools) >> Proceeding label file reading for [SZ31284] <<
+(SegTools) >> Proceeding label file reading for [SZ30268] <<
+(SegTools) >> Proceeding label file reading for [SZ27372] <<
+(SegTools) >> Proceeding label file reading for [SZ30112] <<
+(SegTools) >> Proceeding label file reading for [SZ30507] <<
+(SegTools) >> Proceeding label file reading for [SZ28322] <<
+(SegTools) >> Proceeding label file reading for [SZ30247] <<
+(SegTools) >> Proceeding label file reading for [SZ31011] <<
+(SegTools) >> Proceeding label file reading for [SZ28542] <<
+(SegTools) >> Proceeding label file reading for [SZ28126] <<
+(SegTools) >> Proceeding label file reading for [SZ27706] <<
+(SegTools) >> Proceeding label file reading for [SZ30631] <<
+(SegTools) >> Proceeding label file reading for [SZ30125] <<
+(SegTools) >> Proceeding label file reading for [SZ28392] <<
+(SegTools) >> Proceeding label file reading for [SZ29006] <<
+(SegTools) >> Proceeding label file reading for [SZ30320] <<
+(SegTools) >> Proceeding label file reading for [SZ31194] <<
+(SegTools) >> Proceeding label file reading for [SZ27218] <<
+(SegTools) >> Proceeding label file reading for [SZ27426] <<
+(SegTools) >> Proceeding label file reading for [SZ30047] <<
+(SegTools) >> Proceeding label file reading for [SZ30581] <<
+(SegTools) >> Proceeding label file reading for [SZ28895] <<
+(SegTools) >> Proceeding label file reading for [SZ31607] <<
+(SegTools) >> Proceeding label file reading for [SZ27944] <<
+(SegTools) >> Proceeding label file reading for [SZ28379] <<
+(SegTools) >> Proceeding label file reading for [SZ31739] <<
+(SegTools) >> Proceeding label file reading for [SZ27228] <<
+(SegTools) >> Proceeding label file reading for [SZ32046] <<
+(SegTools) >> Proceeding label file reading for [SZ32561] <<
+(SegTools) >> Proceeding label file reading for [SZ32100] <<
+(SegTools) >> Proceeding label file reading for [SZ30231] <<
+(SegTools) >> Proceeding label file reading for [SZ27641] <<
+(SegTools) >> Proceeding label file reading for [SZ30276] <<
+(SegTools) >> Proceeding label file reading for [SZ30397] <<
+(SegTools) >> Proceeding label file reading for [SZ28176] <<
+(SegTools) >> Proceeding label file reading for [SZ28215] <<
+(SegTools) >> Proceeding label file reading for [SZ27688] <<
+(SegTools) >> Proceeding label file reading for [SZ28579] <<
+(SegTools) >> Proceeding label file reading for [SZ28228] <<
+(SegTools) >> Proceeding label file reading for [SZ27163] <<
+(SegTools) >> Proceeding label file reading for [SZ30480] <<
+(SegTools) >> Proceeding label file reading for [SZ29293] <<
+(SegTools) >> Proceeding label file reading for [SZ30318] <<
+(SegTools) >> Proceeding label file reading for [SZ30284] <<
+(SegTools) >> Proceeding label file reading for [SZ28949] <<
+(SegTools) >> Proceeding label file reading for [SZ27445] <<
+(SegTools) >> Proceeding label file reading for [SZ30367] <<
+(SegTools) >> Proceeding label file reading for [SZ28834] <<
+(SegTools) >> Proceeding label file reading for [SZ30469] <<
+(SegTools) >> Proceeding label file reading for [SZ28245] <<
+(SegTools) >> Proceeding label file reading for [SZ27072] <<
+(SegTools) >> Proceeding label file reading for [SZ32349] <<
+(SegTools) >> Proceeding label file reading for [SZ30603] <<
+(SegTools) >> Proceeding label file reading for [SZ32540] <<
+(SegTools) >> Proceeding label file reading for [SZ28210] <<
+(SegTools) >> Proceeding label file reading for [SZ31075] <<
+(SegTools) >> Proceeding label file reading for [SZ27973] <<
+(SegTools) >> Proceeding label file reading for [SZ29422] <<
+(SegTools) >> Proceeding label file reading for [SZ30117] <<
+(SegTools) >> Proceeding label file reading for [SZ31202] <<
+(SegTools) >> Proceeding label file reading for [SZ28628] <<
+(SegTools) >> Proceeding label file reading for [SZ30407] <<
+(SegTools) >> Proceeding label file reading for [SZ30775] <<
+(SegTools) >> Proceeding label file reading for [SZ32556] <<
+(SegTools) >> Proceeding label file reading for [SZ28482] <<
+(SegTools) >> Proceeding label file reading for [SZ32205] <<
+(SegTools) >> Proceeding label file reading for [SZ28130] <<
+(SegTools) >> Proceeding label file reading for [SZ28562] <<
+(SegTools) >> Proceeding label file reading for [SZ28488] <<
+(SegTools) >> Proceeding label file reading for [SZ30879] <<
+(SegTools) >> Proceeding label file reading for [SZ30448] <<
+(SegTools) >> Proceeding label file reading for [SZ27032] <<
+(SegTools) >> Proceeding label file reading for [SZ29010] <<
+(SegTools) >> Proceeding label file reading for [SZ31421] <<
+(SegTools) >> Proceeding label file reading for [SZ27008] <<
+(SegTools) >> Proceeding label file reading for [SZ27036] <<
+(SegTools) >> Proceeding label file reading for [SZ28480] <<
+(SegTools) >> Proceeding label file reading for [SZ32501] <<
+(SegTools) >> Proceeding label file reading for [SZ30361] <<
+(SegTools) >> Proceeding label file reading for [SZ30272] <<
+(SegTools) >> Proceeding label file reading for [SZ31047] <<
+(SegTools) >> Proceeding label file reading for [SZ30245] <<
+(SegTools) >> Proceeding label file reading for [SZ31336] <<
+(SegTools) >> Proceeding label file reading for [SZ32118] <<
+(SegTools) >> Proceeding label file reading for [SZ27320] <<
+(SegTools) >> Proceeding label file reading for [SZ27809] <<
+(SegTools) >> Proceeding label file reading for [SZ30771] <<
+(SegTools) >> Proceeding label file reading for [SZ28142] <<
+(SegTools) >> Proceeding label file reading for [SZ27623] <<
+(SegTools) >> Proceeding label file reading for [SZ28297] <<
+(SegTools) >> Proceeding label file reading for [SZ28934] <<
+(SegTools) >> Proceeding label file reading for [SZ27569] <<
+(SegTools) >> Proceeding label file reading for [SZ30078] <<
+(SegTools) >> Proceeding label file reading for [SZ27957] <<
+(SegTools) >> Proceeding label file reading for [SZ27643] <<
+(SegTools) >> Proceeding label file reading for [SZ32096] <<
+(SegTools) >> Proceeding label file reading for [SZ30295] <<
+(SegTools) >> Proceeding label file reading for [SZ31174] <<
+(SegTools) >> Proceeding label file reading for [SZ28275] <<
+(SegTools) >> Proceeding label file reading for [SZ32921] <<
+(SegTools) >> Proceeding label file reading for [SZ30873] <<
+(SegTools) >> Proceeding label file reading for [SZ30184] <<
+(SegTools) >> Proceeding label file reading for [SZ30011] <<
+(SegTools) >> Proceeding label file reading for [SZ27594] <<
+(SegTools) >> Proceeding label file reading for [SZ28525] <<
+(SegTools) >> Proceeding label file reading for [SZ28656] <<
+(SegTools) >> Proceeding label file reading for [SZ31535] <<
+(SegTools) >> Proceeding label file reading for [SZ30466] <<
+(SegTools) >> Proceeding label file reading for [SZ27738] <<
+(SegTools) >> Proceeding label file reading for [SZ28230] <<
+(SegTools) >> Proceeding label file reading for [SZ31655] <<
+(SegTools) >> Proceeding label file reading for [SZ28183] <<
+(SegTools) >> Proceeding label file reading for [SZ27230] <<
+(SegTools) >> Proceeding label file reading for [SZ27152] <<
+(SegTools) >> Proceeding label file reading for [SZ27439] <<
+(SegTools) >> Proceeding label file reading for [SZ30071] <<
+(SegTools) >> Proceeding label file reading for [SZ27606] <<
+(SegTools) >> Proceeding label file reading for [SZ28685] <<
+(SegTools) >> Proceeding label file reading for [SZ31294] <<
+(SegTools) >> Proceeding label file reading for [SZ32747] <<
+(SegTools) >> Proceeding label file reading for [SZ28113] <<
+(SegTools) >> Proceeding label file reading for [SZ28611] <<
+(SegTools) >> Proceeding label file reading for [SZ31658] <<
+(SegTools) >> Proceeding label file reading for [SZ32618] <<
+(SegTools) >> Proceeding label file reading for [SZ30026] <<
+(SegTools) >> Proceeding label file reading for [SZ30627] <<
+(SegTools) >> Proceeding label file reading for [SZ27619] <<
+(SegTools) >> Proceeding label file reading for [SZ28968] <<
+(SegTools) >> Proceeding label file reading for [SZ28543] <<
+(SegTools) >> Proceeding label file reading for [SZ30800] <<
+(SegTools) >> Proceeding label file reading for [SZ28695] <<
+(SegTools) >> Proceeding label file reading for [SZ30801] <<
+(SegTools) >> Proceeding label file reading for [SZ30263] <<
+(SegTools) >> Proceeding label file reading for [SZ31083] <<
+(SegTools) >> Proceeding label file reading for [SZ32927] <<
+(SegTools) >> Proceeding label file reading for [SZ28880] <<
+(SegTools) >> Proceeding label file reading for [SZ31186] <<
+(SegTools) >> Proceeding label file reading for [SZ30528] <<
+(SegTools) >> Proceeding label file reading for [SZ28549] <<
+(SegTools) >> Proceeding label file reading for [SZ27470] <<
+(SegTools) >> Proceeding label file reading for [SZ27269] <<
+(SegTools) >> Proceeding label file reading for [SZ27935] <<
+(SegTools) >> Proceeding label file reading for [SZ32855] <<
+(SegTools) >> Proceeding label file reading for [SZ32087] <<
+(SegTools) >> Proceeding label file reading for [SZ31243] <<
+(SegTools) >> Proceeding label file reading for [SZ31686] <<
+(SegTools) >> Proceeding label file reading for [SZ27391] <<
+(SegTools) >> Proceeding label file reading for [SZ27564] <<
+(SegTools) >> Proceeding label file reading for [SZ29012] <<
+(SegTools) >> Proceeding label file reading for [SZ32453] <<
+(SegTools) >> Proceeding label file reading for [SZ30390] <<
+(SegTools) >> Proceeding label file reading for [SZ27720] <<
+(SegTools) >> Proceeding label file reading for [SZ28854] <<
+(SegTools) >> Proceeding label file reading for [SZ31437] <<
+(SegTools) >> Proceeding label file reading for [SZ28148] <<
+(SegTools) >> Proceeding label file reading for [SZ32482] <<
+(SegTools) >> Proceeding label file reading for [SZ28431] <<
+(SegTools) >> Proceeding label file reading for [SZ30838] <<
+(SegTools) >> Proceeding label file reading for [SZ30312] <<
+(SegTools) >> Proceeding label file reading for [SZ32952] <<
+(SegTools) >> Proceeding label file reading for [SZ31034] <<
+(SegTools) >> Proceeding label file reading for [SZ30604] <<
+(SegTools) >> Proceeding label file reading for [SZ27925] <<
+(SegTools) >> Proceeding label file reading for [SZ30663] <<
+(SegTools) >> Proceeding label file reading for [SZ27587] <<
+(SegTools) >> Proceeding label file reading for [SZ28694] <<
+(SegTools) >> Proceeding label file reading for [SZ30083] <<
+(SegTools) >> Proceeding label file reading for [SZ27745] <<
+(SegTools) >> Proceeding label file reading for [SZ30519] <<
+(SegTools) >> Proceeding label file reading for [SZ27573] <<
+(SegTools) >> Proceeding label file reading for [SZ27311] <<
+(SegTools) >> Proceeding label file reading for [SZ27473] <<
+(SegTools) >> Proceeding label file reading for [SZ30848] <<
+(SegTools) >> Proceeding label file reading for [SZ29190] <<
+(SegTools) >> Proceeding label file reading for [SZ30718] <<
+(SegTools) >> Proceeding label file reading for [SZ28764] <<
+(SegTools) >> Proceeding label file reading for [SZ28382] <<
+(SegTools) >> Proceeding label file reading for [SZ30385] <<
+(SegTools) >> Proceeding label file reading for [SZ27899] <<
+(SegTools) >> Proceeding label file reading for [SZ27295] <<
+(SegTools) >> Proceeding label file reading for [SZ32129] <<
+(SegTools) >> Proceeding label file reading for [SZ30629] <<
+(SegTools) >> Proceeding label file reading for [SZ30571] <<
+(SegTools) >> Proceeding label file reading for [SZ27193] <<
+(SegTools) >> Proceeding label file reading for [SZ27465] <<
+(SegTools) >> Proceeding label file reading for [SZ29178] <<
+(SegTools) >> Proceeding label file reading for [SZ30321] <<
+(SegTools) >> Proceeding label file reading for [SZ30886] <<
+(SegTools) >> Proceeding label file reading for [SZ28381] <<
+(SegTools) >> Proceeding label file reading for [SZ27202] <<
+(SegTools) >> Proceeding label file reading for [SZ31583] <<
+(SegTools) >> Proceeding label file reading for [SZ30588] <<
+(SegTools) >> Proceeding label file reading for [SZ28932] <<
+(SegTools) >> Proceeding label file reading for [SZ27031] <<
+(SegTools) >> Proceeding label file reading for [SZ28411] <<
+(SegTools) >> Proceeding label file reading for [SZ28278] <<
+(SegTools) >> Proceeding label file reading for [SZ30728] <<
+(SegTools) >> Proceeding label file reading for [SZ28999] <<
+(SegTools) >> Proceeding label file reading for [SZ27795] <<
+(SegTools) >> Proceeding label file reading for [SZ27556] <<
+(SegTools) >> Proceeding label file reading for [SZ27984] <<
+(SegTools) >> Proceeding label file reading for [SZ27255] <<
+(SegTools) >> Proceeding label file reading for [SZ32117] <<
+(SegTools) >> Proceeding label file reading for [SZ30787] <<
+(SegTools) >> Proceeding label file reading for [SZ32576] <<
+(SegTools) >> Proceeding label file reading for [SZ31167] <<
+(SegTools) >> Proceeding label file reading for [SZ27695] <<
+(SegTools) >> Proceeding label file reading for [SZ29478] <<
+(SegTools) >> Proceeding label file reading for [SZ27800] <<
+(SegTools) >> Proceeding label file reading for [SZ32151] <<
+(SegTools) >> Proceeding label file reading for [SZ28115] <<
+(SegTools) >> Proceeding label file reading for [SZ30619] <<
+(SegTools) >> Proceeding label file reading for [SZ31441] <<
+(SegTools) >> Proceeding label file reading for [SZ30564] <<
+(SegTools) >> Proceeding label file reading for [SZ28583] <<
+(SegTools) >> Proceeding label file reading for [SZ27534] <<
+(SegTools) >> Proceeding label file reading for [SZ27446] <<
+(SegTools) >> Proceeding label file reading for [SZ31266] <<
+(SegTools) >> Proceeding label file reading for [SZ30379] <<
+(SegTools) >> Proceeding label file reading for [SZ28894] <<
+(SegTools) >> Proceeding label file reading for [SZ32632] <<
+(SegTools) >> Proceeding label file reading for [SZ30446] <<
+(SegTools) >> Proceeding label file reading for [SZ27841] <<
+(SegTools) >> Proceeding label file reading for [SZ30664] <<
+(SegTools) >> Proceeding label file reading for [SZ27199] <<
+(SegTools) >> Proceeding label file reading for [SZ28186] <<
+(SegTools) >> Proceeding label file reading for [SZ32517] <<
+(SegTools) >> Proceeding label file reading for [SZ30738] <<
+(SegTools) >> Proceeding label file reading for [SZ28612] <<
+(SegTools) >> Proceeding label file reading for [SZ30234] <<
+(SegTools) >> Proceeding label file reading for [SZ30550] <<
+(SegTools) >> Proceeding label file reading for [SZ27449] <<
+(SegTools) >> Proceeding label file reading for [SZ31439] <<
+(SegTools) >> Proceeding label file reading for [SZ32340] <<
+(SegTools) >> Proceeding label file reading for [SZ30764] <<
+(SegTools) >> Proceeding label file reading for [SZ30504] <<
+(SegTools) >> Proceeding label file reading for [SZ31368] <<
+(SegTools) >> Proceeding label file reading for [SZ27467] <<
+(SegTools) >> Proceeding label file reading for [SZ27393] <<
+(SegTools) >> Proceeding label file reading for [SZ29266] <<
+(SegTools) >> Proceeding label file reading for [SZ28185] <<
+(SegTools) >> Proceeding label file reading for [SZ30857] <<
+(SegTools) >> Proceeding label file reading for [SZ30516] <<
+(SegTools) >> Proceeding label file reading for [SZ30826] <<
+(SegTools) >> Proceeding label file reading for [SZ27985] <<
+(SegTools) >> Proceeding label file reading for [SZ27062] <<
+(SegTools) >> Proceeding label file reading for [SZ28122] <<
+(SegTools) >> Proceeding label file reading for [SZ28158] <<
+(SegTools) >> Proceeding label file reading for [SZ31121] <<
+(SegTools) >> Proceeding label file reading for [SZ28495] <<
+(SegTools) >> Proceeding label file reading for [SZ27826] <<
+(SegTools) >> Proceeding label file reading for [SZ30430] <<
+(SegTools) >> Proceeding label file reading for [SZ30646] <<
+(SegTools) >> Proceeding label file reading for [SZ31227] <<
+(SegTools) >> Proceeding label file reading for [SZ30422] <<
+(SegTools) >> Proceeding label file reading for [SZ32106] <<
+(SegTools) >> Proceeding label file reading for [SZ28865] <<
+(SegTools) >> Proceeding label file reading for [SZ31268] <<
+(SegTools) >> Proceeding label file reading for [SZ30398] <<
+(SegTools) >> Proceeding label file reading for [SZ30076] <<
+(SegTools) >> Proceeding label file reading for [SZ31654] <<
+(SegTools) >> Proceeding label file reading for [SZ30793] <<
+(SegTools) >> Proceeding label file reading for [SZ30399] <<
+(SegTools) >> Proceeding label file reading for [SZ30279] <<
+(SegTools) >> Proceeding label file reading for [SZ31454] <<
+(SegTools) >> Proceeding label file reading for [SZ28792] <<
+(SegTools) >> Proceeding label file reading for [SZ30299] <<
+(SegTools) >> Proceeding label file reading for [SZ27023] <<
+(SegTools) >> Proceeding label file reading for [SZ30414] <<
+(SegTools) >> Proceeding label file reading for [SZ31346] <<
+(SegTools) >> Proceeding label file reading for [SZ28114] <<
+(SegTools) >> Proceeding label file reading for [SZ27536] <<
+(SegTools) >> Proceeding label file reading for [SZ30132] <<
+(SegTools) >> Proceeding label file reading for [SZ32099] <<
+(SegTools) >> Proceeding label file reading for [SZ30687] <<
+(SegTools) >> Proceeding label file reading for [SZ27662] <<
+(SegTools) >> Proceeding label file reading for [SZ30375] <<
+(SegTools) >> Proceeding label file reading for [SZ30239] <<
+(SegTools) >> Proceeding label file reading for [SZ27823] <<
+(SegTools) >> Proceeding label file reading for [SZ32877] <<
+(SegTools) >> Proceeding label file reading for [SZ27003] <<
+(SegTools) >> Proceeding label file reading for [SZ27052] <<
+(SegTools) >> Proceeding label file reading for [SZ29877] <<
+(SegTools) >> Proceeding label file reading for [SZ30633] <<
+(SegTools) >> Proceeding label file reading for [SZ30902] <<
+(SegTools) >> Proceeding label file reading for [SZ28557] <<
+(SegTools) >> Proceeding label file reading for [SZ28868] <<
+(SegTools) >> Proceeding label file reading for [SZ32595] <<
+(SegTools) >> Proceeding label file reading for [SZ27540] <<
+(SegTools) >> Proceeding label file reading for [SZ30763] <<
+(SegTools) >> Proceeding label file reading for [SZ31542] <<
+(SegTools) >> Proceeding label file reading for [SZ30017] <<
+(SegTools) >> Proceeding label file reading for [SZ29023] <<
+(SegTools) >> Proceeding label file reading for [SZ27080] <<
+(SegTools) >> Proceeding label file reading for [SZ27478] <<
+(SegTools) >> Proceeding label file reading for [SZ27171] <<
+(SegTools) >> Proceeding label file reading for [SZ28134] <<
+(SegTools) >> Proceeding label file reading for [SZ32400] <<
+(SegTools) >> Proceeding label file reading for [SZ30989] <<
+(SegTools) >> Proceeding label file reading for [SZ28672] <<
+(SegTools) >> Proceeding label file reading for [SZ27776] <<
+(SegTools) >> Proceeding label file reading for [SZ28735] <<
+(SegTools) >> Proceeding label file reading for [SZ30273] <<
+(SegTools) >> Proceeding label file reading for [SZ31620] <<
+(SegTools) >> Proceeding label file reading for [SZ27081] <<
+(SegTools) >> Proceeding label file reading for [SZ32870] <<
+(SegTools) >> Proceeding label file reading for [SZ27792] <<
+(SegTools) >> Proceeding label file reading for [SZ30315] <<
+(SegTools) >> Proceeding label file reading for [SZ30690] <<
+(SegTools) >> Proceeding label file reading for [SZ27330] <<
+(SegTools) >> Proceeding label file reading for [SZ27435] <<
+(SegTools) >> Proceeding label file reading for [SZ30737] <<
+(SegTools) >> Proceeding label file reading for [SZ30316] <<
+(SegTools) >> Proceeding label file reading for [SZ31841] <<
+(SegTools) >> Proceeding label file reading for [SZ30349] <<
+(SegTools) >> Proceeding label file reading for [SZ28190] <<
+(SegTools) >> Proceeding label file reading for [SZ27389] <<
+(SegTools) >> Proceeding label file reading for [SZ28417] <<
+(SegTools) >> Proceeding label file reading for [SZ30053] <<
+(SegTools) >> Proceeding label file reading for [SZ27496] <<
+(SegTools) >> Proceeding label file reading for [SZ30444] <<
+(SegTools) >> Proceeding label file reading for [SZ27382] <<
+(SegTools) >> Proceeding label file reading for [SZ31193] <<
+(SegTools) >> Proceeding label file reading for [SZ27851] <<
+(SegTools) >> Proceeding label file reading for [SZ31690] <<
+(SegTools) >> Proceeding label file reading for [SZ28248] <<
+(SegTools) >> Proceeding label file reading for [SZ27563] <<
+(SegTools) >> Proceeding label file reading for [SZ31681] <<
+(SegTools) >> Proceeding label file reading for [SZ30065] <<
+(SegTools) >> Proceeding label file reading for [SZ28498] <<
+(SegTools) >> Proceeding label file reading for [SZ31242] <<
+(SegTools) >> Proceeding label file reading for [SZ32427] <<
+(SegTools) >> Proceeding label file reading for [SZ31177] <<
+(SegTools) >> Proceeding label file reading for [SZ31558] <<
+(SegTools) >> Proceeding label file reading for [SZ30335] <<
+(SegTools) >> Proceeding label file reading for [SZ31986] <<
+(SegTools) >> Proceeding label file reading for [SZ27038] <<
+(SegTools) >> Proceeding label file reading for [SZ31662] <<
+(SegTools) >> Proceeding label file reading for [SZ30139] <<
+(SegTools) >> Proceeding label file reading for [SZ31264] <<
+(SegTools) >> Proceeding label file reading for [SZ28429] <<
+(SegTools) >> Proceeding label file reading for [SZ31228] <<
+(SegTools) >> Proceeding label file reading for [SZ28668] <<
+(SegTools) >> Proceeding label file reading for [SZ28603] <<
+(SegTools) >> Proceeding label file reading for [SZ28827] <<
+(SegTools) >> Proceeding label file reading for [SZ30124] <<
+(SegTools) >> Proceeding label file reading for [SZ27201] <<
+(SegTools) >> Proceeding label file reading for [SZ30617] <<
+(SegTools) >> Proceeding label file reading for [SZ28272] <<
+(SegTools) >> Proceeding label file reading for [SZ28415] <<
+(SegTools) >> Proceeding label file reading for [SZ31608] <<
+(SegTools) >> Proceeding label file reading for [SZ32582] <<
+(SegTools) >> Proceeding label file reading for [SZ30872] <<
+(SegTools) >> Proceeding label file reading for [SZ27044] <<
+(SegTools) >> Proceeding label file reading for [SZ32726] <<
+(SegTools) >> Proceeding label file reading for [SZ27762] <<
+(SegTools) >> Proceeding label file reading for [SZ30286] <<
+(SegTools) >> Proceeding label file reading for [SZ27819] <<
+(SegTools) >> Proceeding label file reading for [SZ30417] <<
+(SegTools) >> Proceeding label file reading for [SZ32089] <<
+(SegTools) >> Proceeding label file reading for [SZ27367] <<
+(SegTools) >> Proceeding label file reading for [SZ30423] <<
+(SegTools) >> Proceeding label file reading for [SZ27657] <<
+(SegTools) >> Proceeding label file reading for [SZ31578] <<
+(SegTools) >> Proceeding label file reading for [SZ27859] <<
+(SegTools) >> Proceeding label file reading for [SZ28688] <<
+(SegTools) >> Proceeding label file reading for [SZ28117] <<
+(SegTools) >> Proceeding label file reading for [SZ27514] <<
+(SegTools) >> Proceeding label file reading for [SZ28749] <<
+(SegTools) >> Proceeding label file reading for [SZ30867] <<
+(SegTools) >> Proceeding label file reading for [SZ30730] <<
+(SegTools) >> Proceeding label file reading for [SZ27618] <<
+(SegTools) >> Proceeding label file reading for [SZ28606] <<
+(SegTools) >> Proceeding label file reading for [SZ28101] <<
+(SegTools) >> Proceeding label file reading for [SZ27834] <<
+(SegTools) >> Proceeding label file reading for [SZ30897] <<
+(SegTools) >> Proceeding label file reading for [SZ27488] <<
+(SegTools) >> Proceeding label file reading for [SZ31173] <<
+(SegTools) >> Proceeding label file reading for [SZ30368] <<
+(SegTools) >> Proceeding label file reading for [SZ27447] <<
+(SegTools) >> Proceeding label file reading for [SZ30773] <<
+(SegTools) >> Proceeding label file reading for [SZ28200] <<
+(SegTools) >> Proceeding label file reading for [SZ27146] <<
+(SegTools) >> Proceeding label file reading for [SZ27933] <<
+(SegTools) >> Proceeding label file reading for [SZ28890] <<
+(SegTools) >> Proceeding label file reading for [SZ30640] <<
+(SegTools) >> Proceeding label file reading for [SZ27907] <<
+(SegTools) >> Proceeding label file reading for [SZ31322] <<
+(SegTools) >> Proceeding label file reading for [SZ30500] <<
+(SegTools) >> Proceeding label file reading for [SZ32002] <<
+(SegTools) >> Proceeding label file reading for [SZ27986] <<
+(SegTools) >> Proceeding label file reading for [SZ31036] <<
+(SegTools) >> Proceeding label file reading for [SZ30274] <<
+(SegTools) >> Proceeding label file reading for [SZ28905] <<
+(SegTools) >> Proceeding label file reading for [SZ27153] <<
+(SegTools) >> Proceeding label file reading for [SZ30821] <<
+(SegTools) >> Proceeding label file reading for [SZ30568] <<
+(SegTools) >> Proceeding label file reading for [SZ28727] <<
+(SegTools) >> Proceeding label file reading for [SZ31667] <<
+(SegTools) >> Proceeding label file reading for [SZ31691] <<
+(SegTools) >> Proceeding label file reading for [SZ30237] <<
+(SegTools) >> Proceeding label file reading for [SZ28802] <<
+(SegTools) >> Proceeding label file reading for [SZ30344] <<
+(SegTools) >> Proceeding label file reading for [SZ30307] <<
+(SegTools) >> Proceeding label file reading for [SZ30709] <<
+(SegTools) >> Proceeding label file reading for [SZ27811] <<
+(SegTools) >> Proceeding label file reading for [SZ27157] <<
+(SegTools) >> Proceeding label file reading for [SZ28877] <<
+(SegTools) >> Proceeding label file reading for [SZ28592] <<
+(SegTools) >> Proceeding label file reading for [SZ28966] <<
+(SegTools) >> Proceeding label file reading for [SZ28231] <<
+(SegTools) >> Proceeding label file reading for [SZ30355] <<
+(SegTools) >> Proceeding label file reading for [SZ31263] <<
+(SegTools) >> Proceeding label file reading for [SZ28232] <<
+(SegTools) >> Proceeding label file reading for [SZ27590] <<
+(SegTools) >> Proceeding label file reading for [SZ28855] <<
+(SegTools) >> Proceeding label file reading for [SZ28334] <<
+(SegTools) >> Proceeding label file reading for [SZ30769] <<
+(SegTools) >> Proceeding label file reading for [SZ32891] <<
+(SegTools) >> Proceeding label file reading for [SZ27554] <<
+(SegTools) >> Proceeding label file reading for [SZ27378] <<
+(SegTools) >> Proceeding label file reading for [SZ32922] <<
+(SegTools) >> Proceeding label file reading for [SZ31331] <<
+(SegTools) >> Proceeding label file reading for [SZ28738] <<
+(SegTools) >> Proceeding label file reading for [SZ29029] <<
+(SegTools) >> Proceeding label file reading for [SZ30622] <<
+(SegTools) >> Proceeding label file reading for [SZ30362] <<
+(SegTools) >> Proceeding label file reading for [SZ30030] <<
+(SegTools) >> Proceeding label file reading for [SZ28301] <<
+(SegTools) >> Proceeding label file reading for [SZ28203] <<
+(SegTools) >> Proceeding label file reading for [SZ32539] <<
+(SegTools) >> Proceeding label file reading for [SZ31348] <<
+(SegTools) >> Proceeding label file reading for [SZ28324] <<
+(SegTools) >> Proceeding label file reading for [SZ32157] <<
+(SegTools) >> Proceeding label file reading for [SZ27477] <<
+(SegTools) >> Proceeding label file reading for [SZ28175] <<
+(SegTools) >> Proceeding label file reading for [SZ30126] <<
+(SegTools) >> Proceeding label file reading for [SZ30807] <<
+(SegTools) >> Proceeding label file reading for [SZ30749] <<
+(SegTools) >> Proceeding label file reading for [SZ28787] <<
+(SegTools) >> Proceeding label file reading for [SZ27055] <<
+(SegTools) >> Proceeding label file reading for [SZ28773] <<
+(SegTools) >> Proceeding label file reading for [SZ27438] <<
+(SegTools) >> Proceeding label file reading for [SZ30438] <<
+(SegTools) >> Proceeding label file reading for [SZ32411] <<
+(SegTools) >> Proceeding label file reading for [SZ31229] <<
+(SegTools) >> Proceeding label file reading for [SZ28191] <<
+(SegTools) >> Proceeding label file reading for [SZ28504] <<
+(SegTools) >> Proceeding label file reading for [SZ28801] <<
+(SegTools) >> Proceeding label file reading for [SZ30751] <<
+(SegTools) >> Proceeding label file reading for [SZ27733] <<
+(SegTools) >> Proceeding label file reading for [SZ30714] <<
+(SegTools) >> Proceeding label file reading for [SZ30468] <<
+(SegTools) >> Proceeding label file reading for [SZ27725] <<
+(SegTools) >> Proceeding label file reading for [SZ32204] <<
+(SegTools) >> Proceeding label file reading for [SZ27037] <<
+(SegTools) >> Proceeding label file reading for [SZ27327] <<
+(SegTools) >> Proceeding label file reading for [SZ30785] <<
+(SegTools) >> Proceeding label file reading for [SZ27347] <<
+(SegTools) >> Proceeding label file reading for [SZ27822] <<
+(SegTools) >> Proceeding label file reading for [SZ28921] <<
+(SegTools) >> Proceeding label file reading for [SZ27582] <<
+(SegTools) >> Proceeding label file reading for [SZ32538] <<
+(SegTools) >> Proceeding label file reading for [SZ27716] <<
+(SegTools) >> Proceeding label file reading for [SZ27721] <<
+(SegTools) >> Proceeding label file reading for [SZ27765] <<
+(SegTools) >> Proceeding label file reading for [SZ30777] <<
+(SegTools) >> Proceeding label file reading for [SZ31538] <<
+(SegTools) >> Proceeding label file reading for [SZ28979] <<
+(SegTools) >> Proceeding label file reading for [SZ28811] <<
+(SegTools) >> Proceeding label file reading for [SZ27659] <<
+(SegTools) >> Proceeding label file reading for [SZ27017] <<
+(SegTools) >> Proceeding label file reading for [SZ28137] <<
+(SegTools) >> Proceeding label file reading for [SZ28650] <<
+(SegTools) >> Proceeding label file reading for [SZ30811] <<
+(SegTools) >> Proceeding label file reading for [SZ30698] <<
+(SegTools) >> Proceeding label file reading for [SZ27879] <<
+(SegTools) >> Proceeding label file reading for [SZ32161] <<
+(SegTools) >> Proceeding label file reading for [SZ30753] <<
+(SegTools) >> Proceeding label file reading for [SZ28576] <<
+(SegTools) >> Proceeding label file reading for [SZ27565] <<
+(SegTools) >> Proceeding label file reading for [SZ27286] <<
+(SegTools) >> Proceeding label file reading for [SZ28915] <<
+(SegTools) >> Proceeding label file reading for [SZ28574] <<
+(SegTools) >> Proceeding label file reading for [SZ27281] <<
+(SegTools) >> Proceeding label file reading for [SZ30027] <<
+(SegTools) >> Proceeding label file reading for [SZ27557] <<
+(SegTools) >> Proceeding label file reading for [SZ28292] <<
+(SegTools) >> Proceeding label file reading for [SZ27918] <<
+(SegTools) >> Proceeding label file reading for [SZ27232] <<
+(SegTools) >> Proceeding label file reading for [SZ27472] <<
+(SegTools) >> Proceeding label file reading for [SZ32883] <<
+(SegTools) >> Proceeding label file reading for [SZ32545] <<
+(SegTools) >> Proceeding label file reading for [SZ30240] <<
+(SegTools) >> Proceeding label file reading for [SZ27094] <<
+(SegTools) >> Proceeding label file reading for [SZ32896] <<
+(SegTools) >> Proceeding label file reading for [SZ27838] <<
+(SegTools) >> Proceeding label file reading for [SZ27677] <<
+(SegTools) >> Proceeding label file reading for [SZ27395] <<
+(SegTools) >> Proceeding label file reading for [SZ30752] <<
+(SegTools) >> Proceeding label file reading for [SZ27069] <<
+(SegTools) >> Proceeding label file reading for [SZ29423] <<
+(SegTools) >> Proceeding label file reading for [SZ30376] <<
+(SegTools) >> Proceeding label file reading for [SZ30325] <<
+(SegTools) >> Proceeding label file reading for [SZ27490] <<
+(SegTools) >> Proceeding label file reading for [SZ28597] <<
+(SegTools) >> Proceeding label file reading for [SZ30305] <<
+(SegTools) >> Proceeding label file reading for [SZ30322] <<
+(SegTools) >> Proceeding label file reading for [SZ30803] <<
+(SegTools) >> Proceeding label file reading for [SZ30981] <<
+(SegTools) >> Proceeding label file reading for [SZ28440] <<
+(SegTools) >> Proceeding label file reading for [SZ30292] <<
+(SegTools) >> Proceeding label file reading for [SZ28847] <<
+(SegTools) >> Proceeding label file reading for [SZ31488] <<
+(SegTools) >> Proceeding label file reading for [SZ28318] <<
+(SegTools) >> Proceeding label file reading for [SZ31062] <<
+(SegTools) >> Proceeding label file reading for [SZ27849] <<
+(SegTools) >> Proceeding label file reading for [SZ28552] <<
+(SegTools) >> Proceeding label file reading for [SZ28468] <<
+(SegTools) >> Proceeding label file reading for [SZ31023] <<
+(SegTools) >> Proceeding label file reading for [SZ28613] <<
+(SegTools) >> Proceeding label file reading for [SZ27840] <<
+(SegTools) >> Proceeding label file reading for [SZ31433] <<
+(SegTools) >> Proceeding label file reading for [SZ28378] <<
+(SegTools) >> Proceeding label file reading for [SZ27977] <<
+(SegTools) >> Proceeding label file reading for [SZ30875] <<
+(SegTools) >> Proceeding label file reading for [SZ30796] <<
+(SegTools) >> Proceeding label file reading for [SZ30731] <<
+(SegTools) >> Proceeding label file reading for [SZ27019] <<
+(SegTools) >> Proceeding label file reading for [SZ28109] <<
+(SegTools) >> Proceeding label file reading for [SZ27236] <<
+(SegTools) >> Proceeding label file reading for [SZ32895] <<
+(SegTools) >> Proceeding label file reading for [SZ27464] <<
+(SegTools) >> Proceeding label file reading for [SZ28206] <<
+(SegTools) >> Proceeding label file reading for [SZ30569] <<
+(SegTools) >> Proceeding label file reading for [SZ28989] <<
+(SegTools) >> Proceeding label file reading for [SZ27796] <<
+(SegTools) >> Proceeding label file reading for [SZ27624] <<
+(SegTools) >> Proceeding label file reading for [SZ27589] <<
+(SegTools) >> Proceeding label file reading for [SZ27639] <<
+(SegTools) >> Proceeding label file reading for [SZ28651] <<
+(SegTools) >> Proceeding label file reading for [SZ27225] <<
+(SegTools) >> Proceeding label file reading for [SZ28355] <<
+(SegTools) >> Proceeding label file reading for [SZ27908] <<
+(SegTools) >> Proceeding label file reading for [SZ30498] <<
+(SegTools) >> Proceeding label file reading for [SZ28391] <<
+(SegTools) >> Proceeding label file reading for [SZ28728] <<
+(SegTools) >> Proceeding label file reading for [SZ28703] <<
+(SegTools) >> Proceeding label file reading for [SZ28233] <<
+(SegTools) >> Proceeding label file reading for [SZ27923] <<
+(SegTools) >> Proceeding label file reading for [SZ27872] <<
+(SegTools) >> Proceeding label file reading for [SZ32527] <<
+(SegTools) >> Proceeding label file reading for [SZ30610] <<
+(SegTools) >> Proceeding label file reading for [SZ30563] <<
+(SegTools) >> Proceeding label file reading for [SZ28544] <<
+(SegTools) >> Proceeding label file reading for [SZ28284] <<
+(SegTools) >> Proceeding label file reading for [SZ30391] <<
+(SegTools) >> Proceeding label file reading for [SZ27188] <<
+(SegTools) >> Proceeding label file reading for [SZ29336] <<
+(SegTools) >> Proceeding label file reading for [SZ27073] <<
+(SegTools) >> Proceeding label file reading for [SZ27215] <<
+(SegTools) >> Proceeding label file reading for [SZ28942] <<
+(SegTools) >> Proceeding label file reading for [SZ28506] <<
+(SegTools) >> Proceeding label file reading for [SZ28664] <<
+(SegTools) >> Proceeding label file reading for [SZ30416] <<
+(SegTools) >> Proceeding label file reading for [SZ31515] <<
+(SegTools) >> Proceeding label file reading for [SZ32573] <<
+(SegTools) >> Proceeding label file reading for [SZ28760] <<
+(SegTools) >> Proceeding label file reading for [SZ27022] <<
+(SegTools) >> Proceeding label file reading for [SZ28103] <<
+(SegTools) >> Proceeding label file reading for [SZ31050] <<
+(SegTools) >> Proceeding label file reading for [SZ27444] <<
+(SegTools) >> Proceeding label file reading for [SZ28590] <<
+(SegTools) >> Proceeding label file reading for [SZ28296] <<
+(SegTools) >> Proceeding label file reading for [SZ27797] <<
+(SegTools) >> Proceeding label file reading for [SZ30119] <<
+(SegTools) >> Proceeding label file reading for [SZ27513] <<
+(SegTools) >> Proceeding label file reading for [SZ27092] <<
+(SegTools) >> Proceeding label file reading for [SZ27644] <<
+(SegTools) >> Proceeding label file reading for [SZ28336] <<
+(SegTools) >> Proceeding label file reading for [SZ28648] <<
+(SegTools) >> Proceeding label file reading for [SZ31321] <<
+(SegTools) >> Proceeding label file reading for [SZ32857] <<
+(SegTools) >> Proceeding label file reading for [SZ32906] <<
+(SegTools) >> Proceeding label file reading for [SZ31353] <<
+(SegTools) >> Proceeding label file reading for [SZ27208] <<
+(SegTools) >> Proceeding label file reading for [SZ30310] <<
+(SegTools) >> Proceeding label file reading for [SZ30282] <<
+(SegTools) >> Proceeding label file reading for [SZ28998] <<
+(SegTools) >> Proceeding label file reading for [SZ30724] <<
+(SegTools) >> Proceeding label file reading for [SZ32914] <<
+(SegTools) >> Proceeding label file reading for [SZ31226] <<
+(SegTools) >> Proceeding label file reading for [SZ27128] <<
+(SegTools) >> Proceeding label file reading for [SZ30382] <<
+(SegTools) >> Proceeding label file reading for [SZ27562] <<
+(SegTools) >> Proceeding label file reading for [SZ31545] <<
+(SegTools) >> Proceeding label file reading for [SZ28435] <<
+(SegTools) >> Proceeding label file reading for [SZ28700] <<
+(SegTools) >> Proceeding label file reading for [SZ27784] <<
+(SegTools) >> Proceeding label file reading for [SZ32516] <<
+(SegTools) >> Proceeding label file reading for [SZ27190] <<
+(SegTools) >> Proceeding label file reading for [SZ27592] <<
+(SegTools) >> Proceeding label file reading for [SZ27002] <<
+(SegTools) >> Proceeding label file reading for [SZ27088] <<
+(SegTools) >> Proceeding label file reading for [SZ30018] <<
+(SegTools) >> Proceeding label file reading for [SZ28831] <<
+(SegTools) >> Proceeding label file reading for [SZ28889] <<
+(SegTools) >> Proceeding label file reading for [SZ30188] <<
+(SegTools) >> Proceeding label file reading for [SZ31078] <<
+(SegTools) >> Proceeding label file reading for [SZ27396] <<
+(SegTools) >> Proceeding label file reading for [SZ30602] <<
+(SegTools) >> Proceeding label file reading for [SZ30454] <<
+(SegTools) >> Proceeding label file reading for [SZ27110] <<
+(SegTools) >> Proceeding label file reading for [SZ30404] <<
+(SegTools) >> Proceeding label file reading for [SZ30340] <<
+(SegTools) >> Proceeding label file reading for [SZ28267] <<
+(SegTools) >> Proceeding label file reading for [SZ32095] <<
+(SegTools) >> Proceeding label file reading for [SZ27337] <<
+(SegTools) >> Proceeding label file reading for [SZ27172] <<
+(SegTools) >> Proceeding label file reading for [SZ27528] <<
+(SegTools) >> Proceeding label file reading for [SZ30090] <<
+(SegTools) >> Proceeding label file reading for [SZ32980] <<
+(SegTools) >> Proceeding label file reading for [SZ30358] <<
+(SegTools) >> Proceeding label file reading for [SZ27722] <<
+(SegTools) >> Proceeding label file reading for [SZ27468] <<
+(SegTools) >> Proceeding label file reading for [SZ28290] <<
+(SegTools) >> Proceeding label file reading for [SZ28596] <<
+(SegTools) >> Proceeding label file reading for [SZ28594] <<
+(SegTools) >> Proceeding label file reading for [SZ28565] <<
+(SegTools) >> Proceeding label file reading for [SZ28110] <<
+(SegTools) >> Proceeding label file reading for [SZ31570] <<
+(SegTools) >> Proceeding label file reading for [SZ28127] <<
+(SegTools) >> Proceeding label file reading for [SZ32332] <<
+(SegTools) >> Proceeding label file reading for [SZ28653] <<
+(SegTools) >> Proceeding label file reading for [SZ27278] <<
+(SegTools) >> Proceeding label file reading for [SZ28412] <<
+(SegTools) >> Proceeding label file reading for [SZ28323] <<
+(SegTools) >> Proceeding label file reading for [SZ27170] <<
+(SegTools) >> Proceeding label file reading for [SZ30420] <<
+(SegTools) >> Proceeding label file reading for [SZ28450] <<
+(SegTools) >> Proceeding label file reading for [SZ27006] <<
+(SegTools) >> Proceeding label file reading for [SZ28874] <<
+(SegTools) >> Proceeding label file reading for [SZ28164] <<
+(SegTools) >> Proceeding label file reading for [SZ32827] <<
+(SegTools) >> Proceeding label file reading for [SZ27843] <<
+(SegTools) >> Proceeding label file reading for [SZ31664] <<
+(SegTools) >> Proceeding label file reading for [SZ30791] <<
+(SegTools) >> Proceeding label file reading for [SZ30290] <<
+(SegTools) >> Proceeding label file reading for [SZ31640] <<
+(SegTools) >> Proceeding label file reading for [SZ29185] <<
+(SegTools) >> Proceeding label file reading for [SZ32951] <<
+(SegTools) >> Proceeding label file reading for [SZ28448] <<
+(SegTools) >> Proceeding label file reading for [SZ28178] <<
+(SegTools) >> Proceeding label file reading for [SZ27774] <<
+(SegTools) >> Proceeding label file reading for [SZ30115] <<
+(SegTools) >> Proceeding label file reading for [SZ27512] <<
+(SegTools) >> Proceeding label file reading for [SZ29018] <<
+(SegTools) >> Proceeding label file reading for [SZ31635] <<
+(SegTools) >> Proceeding label file reading for [SZ28774] <<
+(SegTools) >> Proceeding label file reading for [SZ31101] <<
+(SegTools) >> Proceeding label file reading for [SZ29616] <<
+(SegTools) >> Proceeding label file reading for [SZ28491] <<
+(SegTools) >> Proceeding label file reading for [SZ29001] <<
+(SegTools) >> Proceeding label file reading for [SZ31408] <<
+(SegTools) >> Proceeding label file reading for [SZ31119] <<
+(SegTools) >> Proceeding label file reading for [SZ27559] <<
+(SegTools) >> Proceeding label file reading for [SZ29473] <<
+(SegTools) >> Proceeding label file reading for [SZ27419] <<
+(SegTools) >> Proceeding label file reading for [SZ30062] <<
+(SegTools) >> Proceeding label file reading for [SZ31032] <<
+(SegTools) >> Proceeding label file reading for [SZ30799] <<
+(SegTools) >> Proceeding label file reading for [SZ28690] <<
+(SegTools) >> Proceeding label file reading for [SZ27312] <<
+(SegTools) >> Proceeding label file reading for [SZ29338] <<
+(SegTools) >> Proceeding label file reading for [SZ31210] <<
+(SegTools) >> Proceeding label file reading for [SZ27204] <<
+(SegTools) >> Proceeding label file reading for [SZ30359] <<
+(SegTools) >> Proceeding label file reading for [SZ30171] <<
+(SegTools) >> Proceeding label file reading for [SZ27452] <<
+(SegTools) >> Proceeding label file reading for [SZ28994] <<
+(SegTools) >> Proceeding label file reading for [SZ27257] <<
+(SegTools) >> Proceeding label file reading for [SZ27091] <<
+(SegTools) >> Proceeding label file reading for [SZ27045] <<
+(SegTools) >> Proceeding label file reading for [SZ27368] <<
+(SegTools) >> Proceeding label file reading for [SZ28527] <<
+(SegTools) >> Proceeding label file reading for [SZ28443] <<
+(SegTools) >> Proceeding label file reading for [SZ28923] <<
+(SegTools) >> Proceeding label file reading for [SZ30169] <<
+(SegTools) >> Proceeding label file reading for [SZ30486] <<
+(SegTools) >> Proceeding label file reading for [SZ28806] <<
+(SegTools) >> Proceeding label file reading for [SZ28255] <<
+(SegTools) >> Proceeding label file reading for [SZ30079] <<
+(SegTools) >> Proceeding label file reading for [SZ29833] <<
+(SegTools) >> Proceeding label file reading for [SZ27600] <<
+(SegTools) >> Proceeding label file reading for [SZ27366] <<
+(SegTools) >> Proceeding label file reading for [SZ30786] <<
+(SegTools) >> Proceeding label file reading for [SZ28252] <<
+(SegTools) >> Proceeding label file reading for [SZ28919] <<
+(SegTools) >> Proceeding label file reading for [SZ30732] <<
+(SegTools) >> Proceeding label file reading for [SZ30659] <<
+(SegTools) >> Proceeding label file reading for [SZ27194] <<
+(SegTools) >> Proceeding label file reading for [SZ30309] <<
+(SegTools) >> Proceeding label file reading for [SZ31648] <<
+(SegTools) >> Proceeding label file reading for [SZ27622] <<
+(SegTools) >> Proceeding label file reading for [SZ30556] <<
+(SegTools) >> Proceeding label file reading for [SZ30815] <<
+(SegTools) >> Proceeding label file reading for [SZ29852] <<
+(SegTools) >> Proceeding label file reading for [SZ30129] <<
+(SegTools) >> Proceeding label file reading for [SZ27183] <<
+(SegTools) >> Proceeding label file reading for [SZ30313] <<
+(SegTools) >> Proceeding label file reading for [SZ28693] <<
+(SegTools) >> Proceeding label file reading for [SZ30084] <<
+(SegTools) >> Proceeding label file reading for [SZ31027] <<
+(SegTools) >> Proceeding label file reading for [SZ28303] <<
+(SegTools) >> Proceeding label file reading for [SZ30363] <<
+(SegTools) >> Proceeding label file reading for [SZ27227] <<
+(SegTools) >> Proceeding label file reading for [SZ29434] <<
+(SegTools) >> Proceeding label file reading for [SZ27575] <<
+(SegTools) >> Proceeding label file reading for [SZ30008] <<
+(SegTools) >> Proceeding label file reading for [SZ27906] <<
+(SegTools) >> Proceeding label file reading for [SZ28705] <<
+(SegTools) >> Proceeding label file reading for [SZ27671] <<
+(SegTools) >> Proceeding label file reading for [SZ30251] <<
+(SegTools) >> Proceeding label file reading for [SZ27033] <<
+(SegTools) >> Proceeding label file reading for [SZ28405] <<
+(SegTools) >> Proceeding label file reading for [SZ30539] <<
+(SegTools) >> Proceeding label file reading for [SZ27979] <<
+(SegTools) >> Proceeding label file reading for [SZ27323] <<
+(SegTools) >> Proceeding label file reading for [SZ32769] <<
+(SegTools) >> Proceeding label file reading for [SZ29002] <<
+(SegTools) >> Proceeding label file reading for [SZ30840] <<
+(SegTools) >> Proceeding label file reading for [SZ28159] <<
+(SegTools) >> Proceeding label file reading for [SZ28684] <<
+(SegTools) >> Proceeding label file reading for [SZ28153] <<
+(SegTools) >> Proceeding label file reading for [SZ30002] <<
+(SegTools) >> Proceeding label file reading for [SZ32090] <<
+(SegTools) >> Proceeding label file reading for [SZ31016] <<
+(SegTools) >> Proceeding label file reading for [SZ31326] <<
+(SegTools) >> Proceeding label file reading for [SZ28180] <<
+(SegTools) >> Proceeding label file reading for [SZ30383] <<
+(SegTools) >> Proceeding label file reading for [SZ31357] <<
+(SegTools) >> Proceeding label file reading for [SZ28270] <<
+(SegTools) >> Proceeding label file reading for [SZ30953] <<
+(SegTools) >> Proceeding label file reading for [SZ27511] <<
+(SegTools) >> Proceeding label file reading for [SZ30055] <<
+(SegTools) >> Proceeding label file reading for [SZ30291] <<
+(SegTools) >> Proceeding label file reading for [SZ30514] <<
+(SegTools) >> Proceeding label file reading for [SZ30806] <<
+(SegTools) >> Proceeding label file reading for [SZ30300] <<
+(SegTools) >> Proceeding label file reading for [SZ30707] <<
+(SegTools) >> Proceeding label file reading for [SZ30128] <<
+(SegTools) >> Proceeding label file reading for [SZ30496] <<
+(SegTools) >> Proceeding label file reading for [SZ30338] <<
+(SegTools) >> Proceeding label file reading for [SZ32098] <<
+(SegTools) >> Proceeding label file reading for [SZ30386] <<
+(SegTools) >> Proceeding label file reading for [SZ27305] <<
+(SegTools) >> Proceeding label file reading for [SZ28950] <<
+(SegTools) >> Proceeding label file reading for [SZ32231] <<
+(SegTools) >> Proceeding label file reading for [SZ30352] <<
+(SegTools) >> Proceeding label file reading for [SZ27861] <<
+(SegTools) >> Proceeding label file reading for [SZ27451] <<
+(SegTools) >> Proceeding label file reading for [SZ30713] <<
+(SegTools) >> Proceeding label file reading for [SZ28144] <<
+(SegTools) >> Proceeding label file reading for [SZ27277] <<
+(SegTools) >> Proceeding label file reading for [SZ27996] <<
+(SegTools) >> Proceeding label file reading for [SZ28132] <<
+(SegTools) >> Proceeding label file reading for [SZ27351] <<
+(SegTools) >> Proceeding label file reading for [SZ30051] <<
+(SegTools) >> Proceeding label file reading for [SZ27524] <<
+(SegTools) >> Proceeding label file reading for [SZ32220] <<
+(SegTools) >> Proceeding label file reading for [SZ27997] <<
+(SegTools) >> Proceeding label file reading for [SZ28131] <<
+(SegTools) >> Proceeding label file reading for [SZ28135] <<
+(SegTools) >> Proceeding label file reading for [SZ32489] <<
+(SegTools) >> Proceeding label file reading for [SZ30296] <<
+(SegTools) >> Proceeding label file reading for [SZ30772] <<
+(SegTools) >> Proceeding label file reading for [SZ30858] <<
+(SegTools) >> Proceeding label file reading for [SZ27552] <<
+(SegTools) >> Proceeding label file reading for [SZ30827] <<
+(SegTools) >> Proceeding label file reading for [SZ29417] <<
+(SegTools) >> Proceeding label file reading for [SZ30647] <<
+(SegTools) >> Proceeding label file reading for [SZ28181] <<
+(SegTools) >> Proceeding label file reading for [SZ32939] <<
+(SegTools) >> Proceeding label file reading for [SZ31022] <<
+(SegTools) >> Proceeding label file reading for [SZ28208] <<
+(SegTools) >> Proceeding label file reading for [SZ27359] <<
+(SegTools) >> Proceeding label file reading for [SZ30648] <<
+(SegTools) >> Proceeding label file reading for [SZ30271] <<
+(SegTools) >> Proceeding label file reading for [SZ27655] <<
+(SegTools) >> Proceeding label file reading for [SZ31053] <<
+(SegTools) >> Proceeding label file reading for [SZ27533] <<
+(SegTools) >> Proceeding label file reading for [SZ30717] <<
+(SegTools) >> Proceeding label file reading for [SZ32094] <<
+(SegTools) >> Proceeding label file reading for [SZ30427] <<
+(SegTools) >> Proceeding label file reading for [SZ27076] <<
+(SegTools) >> Proceeding label file reading for [SZ30453] <<
+(SegTools) >> Proceeding label file reading for [SZ30810] <<
+(SegTools) >> Proceeding label file reading for [SZ29426] <<
+(SegTools) >> Proceeding label file reading for [SZ27191] <<
+(SegTools) >> Proceeding label file reading for [SZ30303] <<
+(SegTools) >> Proceeding label file reading for [SZ28704] <<
+(SegTools) >> Proceeding label file reading for [SZ32537] <<
+(SegTools) >> Proceeding label file reading for [SZ27584] <<
+(SegTools) >> Proceeding label file reading for [SZ27807] <<
+(SegTools) >> Proceeding label file reading for [SZ31209] <<
+(SegTools) >> Proceeding label file reading for [SZ28578] <<
+(SegTools) >> Proceeding label file reading for [SZ30543] <<
+(SegTools) >> Proceeding label file reading for [SZ30342] <<
+(SegTools) >> Proceeding label file reading for [SZ30893] <<
+(SegTools) >> Proceeding label file reading for [SZ27656] <<
+(SegTools) >> Proceeding label file reading for [SZ28743] <<
+(SegTools) >> Proceeding label file reading for [SZ30356] <<
+(SegTools) >> Proceeding label file reading for [SZ30366] <<
+(SegTools) >> Proceeding label file reading for [SZ27900] <<
+(SegTools) >> Proceeding label file reading for [SZ28219] <<
+(SegTools) >> Proceeding label file reading for [SZ28156] <<
+(SegTools) >> Proceeding label file reading for [SZ29793] <<
+(SegTools) >> Proceeding label file reading for [SZ30410] <<
+(SegTools) >> Proceeding label file reading for [SZ30497] <<
+(SegTools) >> Proceeding label file reading for [SZ27685] <<
+(SegTools) >> Proceeding label file reading for [SZ31627] <<
+(SegTools) >> Proceeding label file reading for [SZ27123] <<
+(SegTools) >> Proceeding label file reading for [SZ30253] <<
+(SegTools) >> Proceeding label file reading for [SZ28221] <<
+(SegTools) >> Proceeding label file reading for [SZ30849] <<
+(SegTools) >> Proceeding label file reading for [SZ31560] <<
+(SegTools) >> Proceeding label file reading for [SZ27652] <<
+(SegTools) >> Proceeding label file reading for [SZ30658] <<
+(SegTools) >> Proceeding label file reading for [SZ28234] <<
+(SegTools) >> Proceeding label file reading for [SZ30168] <<
+(SegTools) >> Proceeding label file reading for [SZ31685] <<
+(SegTools) >> Proceeding label file reading for [SZ31102] <<
+(SegTools) >> Proceeding label file reading for [SZ28819] <<
+(SegTools) >> Proceeding label file reading for [SZ31171] <<
+(SegTools) >> Proceeding label file reading for [SZ28800] <<
+(SegTools) >> Proceeding label file reading for [SZ27801] <<
+(SegTools) >> Proceeding label file reading for [SZ27213] <<
+(SegTools) >> Proceeding label file reading for [SZ31253] <<
+(SegTools) >> Proceeding label file reading for [SZ31378] <<
+(SegTools) >> Proceeding label file reading for [SZ27672] <<
+(SegTools) >> Proceeding label file reading for [SZ30403] <<
+(SegTools) >> Proceeding label file reading for [SZ30353] <<
+(SegTools) >> Proceeding label file reading for [SZ31232] <<
+(SegTools) >> Proceeding label file reading for [SZ27515] <<
+(SegTools) >> Proceeding label file reading for [SZ30459] <<
+(SegTools) >> Proceeding label file reading for [SZ28875] <<
+(SegTools) >> Proceeding label file reading for [SZ27989] <<
+(SegTools) >> Proceeding label file reading for [SZ27848] <<
+(SegTools) >> Proceeding label file reading for [SZ30905] <<
+(SegTools) >> Proceeding label file reading for [SZ30170] <<
+(SegTools) >> Proceeding label file reading for [SZ31248] <<
+(SegTools) >> Proceeding label file reading for [SZ28154] <<
+(SegTools) >> Proceeding label file reading for [SZ28548] <<
+(SegTools) >> Proceeding label file reading for [SZ31019] <<
+(SegTools) >> Proceeding label file reading for [SZ30425] <<
+(SegTools) >> Proceeding label file reading for [SZ30809] <<
+(SegTools) >> Proceeding label file reading for [SZ30265] <<
+(SegTools) >> Proceeding label file reading for [SZ29460] <<
+(SegTools) >> Proceeding label file reading for [SZ31005] <<
+(SegTools) >> Proceeding label file reading for [SZ27432] <<
+(SegTools) >> Proceeding label file reading for [SZ30607] <<
+(SegTools) >> Proceeding label file reading for [SZ27083] <<
+(SegTools) >> Proceeding label file reading for [SZ28976] <<
+(SegTools) >> Proceeding label file reading for [SZ27064] <<
+(SegTools) >> Proceeding label file reading for [SZ28283] <<
+(SegTools) >> Proceeding label file reading for [SZ27660] <<
+(SegTools) >> Proceeding label file reading for [SZ30735] <<
+(SegTools) >> Proceeding label file reading for [SZ32555] <<
+(SegTools) >> Proceeding label file reading for [SZ30109] <<
+(SegTools) >> Proceeding label file reading for [SZ30354] <<
+(SegTools) >> Proceeding label file reading for [SZ30600] <<
+(SegTools) >> Proceeding label file reading for [SZ31256] <<
+(SegTools) >> Proceeding label file reading for [SZ27274] <<
+(SegTools) >> Proceeding label file reading for [SZ28304] <<
+(SegTools) >> Proceeding label file reading for [SZ30889] <<
+(SegTools) >> Proceeding label file reading for [SZ27860] <<
+(SegTools) >> Proceeding label file reading for [SZ27576] <<
+(SegTools) >> Proceeding label file reading for [SZ28139] <<
+(SegTools) >> Proceeding label file reading for [SZ31056] <<
+(SegTools) >> Proceeding label file reading for [SZ27972] <<
+(SegTools) >> Proceeding label file reading for [SZ31017] <<
+(SegTools) >> Proceeding label file reading for [SZ27148] <<
+(SegTools) >> Proceeding label file reading for [SZ30874] <<
+(SegTools) >> Proceeding label file reading for [SZ27612] <<
+(SegTools) >> Proceeding label file reading for [SZ27676] <<
+(SegTools) >> Proceeding label file reading for [SZ27379] <<
+(SegTools) >> Proceeding label file reading for [SZ30472] <<
+(SegTools) >> Proceeding label file reading for [SZ27139] <<
+(SegTools) >> Proceeding label file reading for [SZ27243] <<
+(SegTools) >> Proceeding label file reading for [SZ29428] <<
+(SegTools) >> Proceeding label file reading for [SZ30669] <<
+(SegTools) >> Proceeding label file reading for [SZ32797] <<
+(SegTools) >> Proceeding label file reading for [SZ28152] <<
+(SegTools) >> Proceeding label file reading for [SZ32215] <<
+(SegTools) >> Proceeding label file reading for [SZ31077] <<
+(SegTools) >> Proceeding label file reading for [SZ27854] <<
+(SegTools) >> Proceeding label file reading for [SZ30166] <<
+(SegTools) >> Proceeding label file reading for [SZ31673] <<
+(SegTools) >> Proceeding label file reading for [SZ28617] <<
+(SegTools) >> Proceeding label file reading for [SZ27388] <<
+(SegTools) >> Proceeding label file reading for [SZ28265] <<
+(SegTools) >> Proceeding label file reading for [SZ27613] <<
+(SegTools) >> Proceeding label file reading for [SZ30494] <<
+(SegTools) >> Proceeding label file reading for [SZ28692] <<
+(SegTools) >> Proceeding label file reading for [SZ27529] <<
+(SegTools) >> Proceeding label file reading for [SZ28256] <<
+(SegTools) >> Proceeding label file reading for [SZ28582] <<
+(SegTools) >> Proceeding label file reading for [SZ30402] <<
+(SegTools) >> Proceeding label file reading for [SZ30096] <<
+(SegTools) >> Proceeding label file reading for [SZ27698] <<
+(SegTools) >> Proceeding label file reading for [SZ27846] <<
+(SegTools) >> Proceeding label file reading for [SZ30524] <<
+(SegTools) >> Proceeding label file reading for [SZ32378] <<
+(SegTools) >> Proceeding label file reading for [SZ27715] <<
+(SegTools) >> Proceeding label file reading for [SZ27799] <<
+(SegTools) >> Proceeding label file reading for [SZ31051] <<
+(SegTools) >> Proceeding label file reading for [SZ30511] <<
+(SegTools) >> Proceeding label file reading for [SZ27549] <<
+(SegTools) >> Proceeding label file reading for [SZ30671] <<
+(SegTools) >> Proceeding label file reading for [SZ27615] <<
+(SegTools) >> Proceeding label file reading for [SZ30246] <<
+(SegTools) >> Proceeding label file reading for [SZ27474] <<
+(SegTools) >> Proceeding label file reading for [SZ27154] <<
+(SegTools) >> Proceeding label file reading for [SZ27497] <<
+(SegTools) >> Proceeding label file reading for [SZ32235] <<
+(SegTools) >> Proceeding label file reading for [SZ32858] <<
+(SegTools) >> Proceeding label file reading for [SZ27346] <<
+(SegTools) >> Proceeding label file reading for [SZ28209] <<
+(SegTools) >> Proceeding label file reading for [SZ31929] <<
+(SegTools) >> Proceeding label file reading for [SZ27423] <<
+(SegTools) >> Proceeding label file reading for [SZ27427] <<
+(SegTools) >> Proceeding label file reading for [SZ30841] <<
+(SegTools) >> Proceeding label file reading for [SZ28112] <<
+(SegTools) >> Proceeding label file reading for [SZ30780] <<
+(SegTools) >> Proceeding label file reading for [SZ28229] <<
+(SegTools) >> Proceeding label file reading for [SZ30825] <<
+(SegTools) >> Proceeding label file reading for [SZ30639] <<
+(SegTools) >> Proceeding label file reading for [SZ30311] <<
+(SegTools) >> Proceeding label file reading for [SZ32295] <<
+(SegTools) >> Proceeding label file reading for [SZ30903] <<
+(SegTools) >> Proceeding label file reading for [SZ30080] <<
+(SegTools) >> Proceeding label file reading for [SZ27114] <<
+(SegTools) >> Proceeding label file reading for [SZ27668] <<
+(SegTools) >> Proceeding label file reading for [SZ27398] <<
+(SegTools) >> Proceeding label file reading for [SZ27595] <<
+(SegTools) >> Proceeding label file reading for [SZ28282] <<
+(SegTools) >> Proceeding label file reading for [SZ30130] <<
+(SegTools) >> Proceeding label file reading for [SZ30654] <<
+(SegTools) >> Proceeding label file reading for [SZ29491] <<
+(SegTools) >> Proceeding label file reading for [SZ27545] <<
+(SegTools) >> Proceeding label file reading for [SZ27403] <<
+(SegTools) >> Proceeding label file reading for [SZ28212] <<
+(SegTools) >> Proceeding label file reading for [SZ30625] <<
+(SegTools) >> Proceeding label file reading for [SZ30609] <<
+(SegTools) >> Proceeding label file reading for [SZ28863] <<
+(SegTools) >> Proceeding label file reading for [SZ27616] <<
+(SegTools) >> Proceeding label file reading for [SZ30183] <<
+(SegTools) >> Proceeding label file reading for [SZ28408] <<
+(SegTools) >> Proceeding label file reading for [SZ30884] <<
+(SegTools) >> Proceeding label file reading for [SZ28204] <<
+(SegTools) >> Proceeding label file reading for [SZ30461] <<
+(SegTools) >> Proceeding label file reading for [SZ32654] <<
+(SegTools) >> Proceeding label file reading for [SZ31377] <<
+(SegTools) >> Proceeding label file reading for [SZ27682] <<
+(SegTools) >> Proceeding label file reading for [SZ27729] <<
+(SegTools) >> Proceeding label file reading for [SZ32507] <<
+(SegTools) >> Proceeding label file reading for [SZ32722] <<
+(SegTools) >> Proceeding label file reading for [SZ27479] <<
+(SegTools) >> Proceeding label file reading for [SZ32825] <<
+(SegTools) >> Proceeding label file reading for [SZ31158] <<
+(SegTools) >> Proceeding label file reading for [SZ28269] <<
+(SegTools) >> Proceeding label file reading for [SZ27839] <<
+(SegTools) >> Proceeding label file reading for [SZ27455] <<
+(SegTools) >> Proceeding label file reading for [SZ27857] <<
+(SegTools) >> Proceeding label file reading for [SZ27603] <<
+(SegTools) >> Proceeding label file reading for [SZ27961] <<
+(SegTools) >> Proceeding label file reading for [SZ29548] <<
+(SegTools) >> Proceeding label file reading for [SZ30678] <<
+(SegTools) >> Proceeding label file reading for [SZ27294] <<
+(SegTools) >> Proceeding label file reading for [SZ30029] <<
+(SegTools) >> Proceeding label file reading for [SZ30235] <<
+(SegTools) >> Proceeding label file reading for [SZ30120] <<
+(SegTools) >> Proceeding label file reading for [SZ32502] <<
+(SegTools) >> Proceeding label file reading for [SZ30264] <<
+(SegTools) >> Proceeding label file reading for [SZ30189] <<
+(SegTools) >> Proceeding label file reading for [SZ30387] <<
+(SegTools) >> Proceeding label file reading for [SZ30033] <<
+(SegTools) >> Proceeding label file reading for [SZ32872] <<
+(SegTools) >> Proceeding label file reading for [SZ27481] <<
+(SegTools) >> Proceeding label file reading for [SZ31359] <<
+(SegTools) >> Proceeding label file reading for [SZ30623] <<
+(SegTools) >> Proceeding label file reading for [SZ27892] <<
+(SegTools) >> Proceeding label file reading for [SZ27605] <<
+(SegTools) >> Proceeding label file reading for [SZ28964] <<
+(SegTools) >> Proceeding label file reading for [SZ30400] <<
+(SegTools) >> Proceeding label file reading for [SZ27693] <<
+(SegTools) >> Proceeding label file reading for [SZ30331] <<
+(SegTools) >> Proceeding label file reading for [SZ28259] <<
+(SegTools) >> Proceeding label file reading for [SZ31539] <<
+(SegTools) >> Proceeding label file reading for [SZ28467] <<
+(SegTools) >> Proceeding label file reading for [SZ27990] <<
+(SegTools) >> Proceeding label file reading for [SZ30010] <<
+(SegTools) >> Proceeding label file reading for [SZ32535] <<
+(SegTools) >> Proceeding label file reading for [SZ28864] <<
+(SegTools) >> Proceeding label file reading for [SZ27675] <<
+(SegTools) >> Proceeding label file reading for [SZ30779] <<
+(SegTools) >> Proceeding label file reading for [SZ27710] <<
+(SegTools) >> Proceeding label file reading for [SZ31738] <<
+(SegTools) >> Proceeding label file reading for [SZ27919] <<
+(SegTools) >> Proceeding label file reading for [SZ28645] <<
+(SegTools) >> Proceeding label file reading for [SZ31003] <<
+(SegTools) >> Proceeding label file reading for [SZ30066] <<
+(SegTools) >> Proceeding label file reading for [SZ30813] <<
+(SegTools) >> Proceeding label file reading for [SZ29380] <<
+(SegTools) >> Proceeding label file reading for [SZ28238] <<
+(SegTools) >> Proceeding label file reading for [SZ30719] <<
+(SegTools) >> Proceeding label file reading for [SZ31175] <<
+(SegTools) >> Proceeding label file reading for [SZ29875] <<
+(SegTools) >> Proceeding label file reading for [SZ29009] <<
+(SegTools) >> Proceeding label file reading for [SZ27658] <<
+(SegTools) >> Proceeding label file reading for [SZ31682] <<
+(SegTools) >> Proceeding label file reading for [SZ27458] <<
+(SegTools) >> Proceeding label file reading for [SZ27387] <<
+(SegTools) >> Proceeding label file reading for [SZ30530] <<
+(SegTools) >> Proceeding label file reading for [SZ30704] <<
+(SegTools) >> Proceeding label file reading for [SZ32259] <<
+(SegTools) >> Proceeding label file reading for [SZ30534] <<
+(SegTools) >> Proceeding label file reading for [SZ27167] <<
+(SegTools) >> Proceeding label file reading for [SZ28980] <<
+(SegTools) >> Proceeding label file reading for [SZ27217] <<
+(SegTools) >> Proceeding label file reading for [SZ30758] <<
+(SegTools) >> Proceeding label file reading for [SZ27259] <<
+(SegTools) >> Proceeding label file reading for [SZ30561] <<
+(SegTools) >> Proceeding label file reading for [SZ27174] <<
+(SegTools) >> Proceeding label file reading for [SZ30260] <<
+(SegTools) >> Proceeding label file reading for [SZ30768] <<
+(SegTools) >> Proceeding label file reading for [SZ29519] <<
+(SegTools) >> Proceeding label file reading for [SZ30447] <<
+(SegTools) >> Proceeding label file reading for [SZ28584] <<
+(SegTools) >> Proceeding label file reading for [SZ29011] <<
+(SegTools) >> Proceeding label file reading for [SZ27538] <<
+(SegTools) >> Proceeding label file reading for [SZ32097] <<
+(SegTools) >> Proceeding label file reading for [SZ27609] <<
+(SegTools) >> Proceeding label file reading for [SZ28948] <<
+(SegTools) >> Proceeding label file reading for [SZ30521] <<
+(SegTools) >> Proceeding label file reading for [SZ28428] <<
+(SegTools) >> Proceeding label file reading for [SZ30317] <<
+(SegTools) >> Proceeding label file reading for [SZ27129] <<
+(SegTools) >> Proceeding label file reading for [SZ27815] <<
+(SegTools) >> Proceeding label file reading for [SZ27735] <<
+(SegTools) >> Proceeding label file reading for [SZ31015] <<
+(SegTools) >> Proceeding label file reading for [SZ32950] <<
+(SegTools) >> Proceeding label file reading for [SZ31035] <<
+(SegTools) >> Proceeding label file reading for [SZ30599] <<
+(SegTools) >> Proceeding label file reading for [SZ27370] <<
+(SegTools) >> Proceeding label file reading for [SZ27107] <<
+(SegTools) >> Proceeding label file reading for [SZ28404] <<
+(SegTools) >> Proceeding label file reading for [SZ31060] <<
+(SegTools) >> Proceeding label file reading for [SZ29360] <<
+(SegTools) >> Proceeding label file reading for [SZ28667] <<
+(SegTools) >> Proceeding label file reading for [SZ30578] <<
+(SegTools) >> Proceeding label file reading for [SZ27308] <<
+(SegTools) >> Proceeding label file reading for [SZ27144] <<
+(SegTools) >> Proceeding label file reading for [SZ30508] <<
+(SegTools) >> Proceeding label file reading for [SZ27758] <<
+(SegTools) >> Proceeding label file reading for [SZ28145] <<
+(SegTools) >> Proceeding label file reading for [SZ27483] <<
+(SegTools) >> Proceeding label file reading for [SZ31138] <<
+(SegTools) >> Proceeding label file reading for [SZ31244] <<
+(SegTools) >> Proceeding label file reading for [SZ28624] <<
+(SegTools) >> Proceeding label file reading for [SZ30293] <<
+(SegTools) >> Proceeding label file reading for [SZ28581] <<
+(SegTools) >> Proceeding label file reading for [SZ30023] <<
+(SegTools) >> Proceeding label file reading for [SZ30232] <<
+(SegTools) >> Proceeding label file reading for [SZ27317] <<
+(SegTools) >> Proceeding label file reading for [SZ30583] <<
+(SegTools) >> Proceeding label file reading for [SZ30167] <<
+(SegTools) >> Proceeding label file reading for [SZ27122] <<
+(SegTools) >> Proceeding label file reading for [SZ30421] <<
+(SegTools) >> Proceeding label file reading for [SZ30522] <<
+(SegTools) >> Proceeding label file reading for [SZ27519] <<
+(SegTools) >> Proceeding label file reading for [SZ30458] <<
+(SegTools) >> Proceeding label file reading for [SZ30371] <<
+(SegTools) >> Proceeding label file reading for [SZ32201] <<
+(SegTools) >> Proceeding label file reading for [SZ30350] <<
+(SegTools) >> Proceeding label file reading for [SZ32320] <<
+(SegTools) >> Proceeding label file reading for [SZ27924] <<
+(SegTools) >> Proceeding label file reading for [SZ28593] <<
+(SegTools) >> Proceeding label file reading for [SZ27035] <<
+(SegTools) >> Proceeding label file reading for [SZ28768] <<
+(SegTools) >> Proceeding label file reading for [SZ30531] <<
+(SegTools) >> Proceeding label file reading for [SZ31109] <<
+(SegTools) >> Proceeding label file reading for [SZ32405] <<
+(SegTools) >> Proceeding label file reading for [SZ27356] <<
+(SegTools) >> Proceeding label file reading for [SZ27934] <<
+(SegTools) >> Proceeding label file reading for [SZ27203] <<
+(SegTools) >> Proceeding label file reading for [SZ29312] <<
+(SegTools) >> Proceeding label file reading for [SZ30370] <<
+(SegTools) >> Proceeding label file reading for [SZ27058] <<
+(SegTools) >> Proceeding label file reading for [SZ29019] <<
+(SegTools) >> Proceeding label file reading for [SZ27830] <<
+(SegTools) >> Proceeding label file reading for [SZ28174] <<
+(SegTools) >> Proceeding label file reading for [SZ27504] <<
+(SegTools) >> Proceeding label file reading for [SZ28939] <<
+(SegTools) >> Proceeding label file reading for [SZ28512] <<
+(SegTools) >> Proceeding label file reading for [SZ28721] <<
+(SegTools) >> Proceeding label file reading for [SZ27211] <<
+(SegTools) >> Proceeding label file reading for [SZ30175] <<
+(SegTools) >> Proceeding label file reading for [SZ32750] <<
+(SegTools) >> Proceeding label file reading for [SZ31160] <<
+(SegTools) >> Proceeding label file reading for [SZ27178] <<
+(SegTools) >> Proceeding label file reading for [SZ32000] <<
+(SegTools) >> Proceeding label file reading for [SZ27747] <<
+(SegTools) >> Proceeding label file reading for [SZ27054] <<
+(SegTools) >> Proceeding label file reading for [SZ30044] <<
+(SegTools) >> Proceeding label file reading for [SZ28973] <<
+(SegTools) >> Proceeding label file reading for [SZ27583] <<
+(SegTools) >> Proceeding label file reading for [SZ28699] <<
+(SegTools) >> Proceeding label file reading for [SZ32554] <<
+(SegTools) >> Proceeding label file reading for [SZ30040] <<
+(SegTools) >> Proceeding label file reading for [SZ30842] <<
+(SegTools) >> Proceeding label file reading for [SZ27599] <<
+(SegTools) >> Proceeding label file reading for [SZ27030] <<
+(SegTools) >> Proceeding label file reading for [SZ28459] <<
+(SegTools) >> Proceeding label file reading for [SZ28107] <<
+(SegTools) >> Proceeding label file reading for [SZ32604] <<
+(SegTools) >> Proceeding label file reading for [SZ30289] <<
+(SegTools) >> Proceeding label file reading for [SZ31572] <<
+(SegTools) >> Proceeding label file reading for [SZ31510] <<
+(SegTools) >> Proceeding label file reading for [SZ27300] <<
+(SegTools) >> Proceeding label file reading for [SZ27226] <<
+(SegTools) >> Proceeding label file reading for [SZ30392] <<
+(SegTools) >> Proceeding label file reading for [SZ30457] <<
+(SegTools) >> Proceeding label file reading for [SZ31628] <<
+(SegTools) >> Proceeding label file reading for [SZ27016] <<
+(SegTools) >> Proceeding label file reading for [SZ32898] <<
+(SegTools) >> Proceeding label file reading for [SZ29468] <<
+(SegTools) >> Proceeding label file reading for [SZ30776] <<
+(SegTools) >> Proceeding label file reading for [SZ30882] <<
+(SegTools) >> Proceeding label file reading for [SZ28462] <<
+Warning File[SZ30104], Truncate Segment begin:5917 length:15 file size:5931 new length:14
+Warning File[SZ27780], Truncate Segment begin:3630 length:17 file size:3646 new length:16
+Warning File[SZ30510], Truncate Segment begin:538 length:43 file size:580 new length:42
+Warning File[SZ30555], Truncate Segment begin:3443 length:6 file size:3448 new length:5
+Warning File[SZ30642], Truncate Segment begin:3479 length:24 file size:3502 new length:23
+Warning File[SZ28353], Truncate Segment begin:3603 length:47 file size:3649 new length:46
+Warning File[SZ30298], Truncate Segment begin:3234 length:17 file size:3250 new length:16
+Warning File[SZ27937], Truncate Segment begin:3796 length:9 file size:3804 new length:8
+Warning File[SZ29007], Truncate Segment begin:6596 length:2 file size:6597 new length:1
+Warning File[SZ30190], Truncate Segment begin:4505 length:11 file size:4515 new length:10
+Warning File[SZ28686], Truncate Segment begin:2759 length:18 file size:2776 new length:17
+Warning File[SZ27507], Truncate Segment begin:3384 length:12 file size:3395 new length:11
+Warning File[SZ30481], Truncate Segment begin:3482 length:18 file size:3499 new length:17
+Warning File[SZ30049], Truncate Segment begin:4363 length:6 file size:4368 new length:5
+Warning File[SZ28991], Truncate Segment begin:7160 length:3 file size:7162 new length:2
+Warning File[SZ28716], Truncate Segment begin:3355 length:18 file size:3372 new length:17
+Warning File[SZ30172], Truncate Segment begin:5472 length:8 file size:5479 new length:7
+Warning File[SZ30456], Truncate Segment begin:3317 length:4 file size:3320 new length:3
+Warning File[SZ28237], Truncate Segment begin:4836 length:11 file size:4846 new length:10
+Warning File[SZ27963], Truncate Segment begin:4215 length:8 file size:4222 new length:7
+Warning File[SZ27313], Truncate Segment begin:3593 length:2 file size:3594 new length:1
+Warning File[SZ27348], Truncate Segment begin:3491 length:2 file size:3492 new length:1
+Warning File[SZ28160], Truncate Segment begin:4918 length:10 file size:4927 new length:9
+Warning File[SZ27070], Truncate Segment begin:4059 length:40 file size:4098 new length:39
+Warning File[SZ31367], Truncate Segment begin:4888 length:7 file size:4894 new length:6
+Warning File[SZ29839], Truncate Segment begin:2880 length:18 file size:2897 new length:17
+Warning File[SZ27943], Truncate Segment begin:3809 length:16 file size:3824 new length:15
+Warning File[SZ28652], Truncate Segment begin:3070 length:4 file size:3073 new length:3
+Warning File[SZ30894], Truncate Segment begin:3308 length:5 file size:3312 new length:4
+Warning File[SZ27661], Truncate Segment begin:3284 length:10 file size:3293 new length:9
+Warning File[SZ30479], Truncate Segment begin:3604 length:5 file size:3608 new length:4
+Warning File[SZ28943], Truncate Segment begin:8651 length:39 file size:8689 new length:38
+Warning File[SZ27551], Truncate Segment begin:3272 length:24 file size:3295 new length:23
+Warning File[SZ27781], Truncate Segment begin:4163 length:22 file size:4184 new length:21
+Warning File[SZ31284], Truncate Segment begin:6087 length:3 file size:6089 new length:2
+Warning File[SZ28379], Truncate Segment begin:3640 length:18 file size:3657 new length:17
+Warning File[SZ27569], Truncate Segment begin:3437 length:13 file size:3449 new length:12
+Warning File[SZ32096], Truncate Segment begin:5491 length:2 file size:5492 new length:1
+Warning File[SZ31535], Truncate Segment begin:5725 length:4 file size:5728 new length:3
+Warning File[SZ28685], Truncate Segment begin:3104 length:27 file size:3130 new length:26
+Warning File[SZ27619], Truncate Segment begin:3422 length:20 file size:3441 new length:19
+Warning File[SZ30263], Truncate Segment begin:3371 length:7 file size:3377 new length:6
+Warning File[SZ31686], Truncate Segment begin:4605 length:3 file size:4607 new length:2
+Warning File[SZ29012], Truncate Segment begin:5754 length:2 file size:5755 new length:1
+Warning File[SZ30312], Truncate Segment begin:3014 length:17 file size:3030 new length:16
+Warning File[SZ27573], Truncate Segment begin:3234 length:20 file size:3253 new length:19
+Warning File[SZ29190], Truncate Segment begin:4983 length:2 file size:4984 new length:1
+Warning File[SZ30718], Truncate Segment begin:3428 length:5 file size:3432 new length:4
+Warning File[SZ28764], Truncate Segment begin:3827 length:13 file size:3839 new length:12
+Warning File[SZ30385], Truncate Segment begin:3483 length:17 file size:3499 new length:16
+Warning File[SZ28999], Truncate Segment begin:4087 length:165 file size:4251 new length:164
+Warning File[SZ31441], Truncate Segment begin:2300 length:8 file size:2307 new length:7
+Warning File[SZ27446], Truncate Segment begin:3804 length:7 file size:3810 new length:6
+Warning File[SZ30738], Truncate Segment begin:3688 length:8 file size:3695 new length:7
+Warning File[SZ30234], Truncate Segment begin:3146 length:501 file size:3646 new length:500
+Warning File[SZ30550], Truncate Segment begin:3311 length:7 file size:3317 new length:6
+Warning File[SZ31121], Truncate Segment begin:3713 length:38 file size:3750 new length:37
+Warning File[SZ30793], Truncate Segment begin:3496 length:8 file size:3503 new length:7
+Warning File[SZ30687], Truncate Segment begin:3665 length:11 file size:3675 new length:10
+Warning File[SZ30239], Truncate Segment begin:3018 length:2 file size:3019 new length:1
+Warning File[SZ30902], Truncate Segment begin:3220 length:18 file size:3237 new length:17
+Warning File[SZ29023], Truncate Segment begin:2972 length:4 file size:2975 new length:3
+Warning File[SZ28672], Truncate Segment begin:3205 length:6 file size:3210 new length:5
+Warning File[SZ32870], Truncate Segment begin:4059 length:135 file size:4193 new length:134
+Warning File[SZ27792], Truncate Segment begin:3481 length:11 file size:3491 new length:10
+Warning File[SZ31690], Truncate Segment begin:5284 length:4 file size:5287 new length:3
+Warning File[SZ30065], Truncate Segment begin:6301 length:9 file size:6309 new length:8
+Warning File[SZ30335], Truncate Segment begin:3509 length:6 file size:3514 new length:5
+Warning File[SZ30417], Truncate Segment begin:4505 length:2 file size:4506 new length:1
+Warning File[SZ28101], Truncate Segment begin:4053 length:4 file size:4056 new length:3
+Warning File[SZ30897], Truncate Segment begin:3929 length:10 file size:3938 new length:9
+Warning File[SZ30368], Truncate Segment begin:3284 length:4 file size:3287 new length:3
+Warning File[SZ31036], Truncate Segment begin:2370 length:6 file size:2375 new length:5
+Warning File[SZ30274], Truncate Segment begin:3321 length:3 file size:3323 new length:2
+Warning File[SZ30821], Truncate Segment begin:3538 length:8 file size:3545 new length:7
+Warning File[SZ31691], Truncate Segment begin:6205 length:3 file size:6207 new length:2
+Warning File[SZ30237], Truncate Segment begin:3008 length:7 file size:3014 new length:6
+Warning File[SZ30709], Truncate Segment begin:3356 length:6 file size:3361 new length:5
+Warning File[SZ27590], Truncate Segment begin:3317 length:13 file size:3329 new length:12
+Warning File[SZ32922], Truncate Segment begin:4849 length:3 file size:4851 new length:2
+Warning File[SZ31331], Truncate Segment begin:5282 length:19 file size:5300 new length:18
+Warning File[SZ28738], Truncate Segment begin:3288 length:10 file size:3297 new length:9
+Warning File[SZ30751], Truncate Segment begin:3271 length:19 file size:3289 new length:18
+Warning File[SZ27037], Truncate Segment begin:3572 length:5 file size:3576 new length:4
+Warning File[SZ27716], Truncate Segment begin:3099 length:8 file size:3106 new length:7
+Warning File[SZ27721], Truncate Segment begin:3158 length:47 file size:3204 new length:46
+Warning File[SZ28613], Truncate Segment begin:3115 length:6 file size:3120 new length:5
+Warning File[SZ30796], Truncate Segment begin:2707 length:14 file size:2720 new length:13
+Warning File[SZ27019], Truncate Segment begin:3533 length:3 file size:3535 new length:2
+Warning File[SZ28391], Truncate Segment begin:4206 length:20 file size:4225 new length:19
+Warning File[SZ27188], Truncate Segment begin:3513 length:6 file size:3518 new length:5
+Warning File[SZ28267], Truncate Segment begin:3665 length:14 file size:3678 new length:13
+Warning File[SZ32332], Truncate Segment begin:6477 length:6 file size:6482 new length:5
+Warning File[SZ30420], Truncate Segment begin:3384 length:9 file size:3392 new length:8
+Warning File[SZ28874], Truncate Segment begin:11055 length:15 file size:11069 new length:14
+Warning File[SZ29001], Truncate Segment begin:3145 length:6 file size:3150 new length:5
+Warning File[SZ30799], Truncate Segment begin:3187 length:2 file size:3188 new length:1
+Warning File[SZ30171], Truncate Segment begin:3950 length:15 file size:3964 new length:14
+Warning File[SZ30486], Truncate Segment begin:3578 length:5 file size:3582 new length:4
+Warning File[SZ27600], Truncate Segment begin:3888 length:3 file size:3890 new length:2
+Warning File[SZ27227], Truncate Segment begin:3659 length:6 file size:3664 new length:5
+Warning File[SZ29434], Truncate Segment begin:6406 length:12 file size:6417 new length:11
+Warning File[SZ32769], Truncate Segment begin:5528 length:10 file size:5537 new length:9
+Warning File[SZ28180], Truncate Segment begin:4292 length:23 file size:4314 new length:22
+Warning File[SZ27656], Truncate Segment begin:3586 length:2 file size:3587 new length:1
+Warning File[SZ27672], Truncate Segment begin:3467 length:4 file size:3470 new length:3
+Warning File[SZ27432], Truncate Segment begin:3323 length:3 file size:3325 new length:2
+Warning File[SZ28283], Truncate Segment begin:4270 length:3 file size:4272 new length:2
+Warning File[SZ31056], Truncate Segment begin:3269 length:8 file size:3276 new length:7
+Warning File[SZ30402], Truncate Segment begin:3387 length:5 file size:3391 new length:4
+Warning File[SZ27698], Truncate Segment begin:2764 length:724 file size:3487 new length:723
+Warning File[SZ27715], Truncate Segment begin:3408 length:11 file size:3418 new length:10
+Warning File[SZ32858], Truncate Segment begin:5067 length:3 file size:5069 new length:2
+Warning File[SZ27346], Truncate Segment begin:3332 length:44 file size:3375 new length:43
+Warning File[SZ30654], Truncate Segment begin:3388 length:2 file size:3389 new length:1
+Warning File[SZ32825], Truncate Segment begin:4726 length:5 file size:4730 new length:4
+Warning File[SZ30779], Truncate Segment begin:3284 length:18 file size:3301 new length:17
+Warning File[SZ28238], Truncate Segment begin:4000 length:371 file size:4370 new length:370
+Warning File[SZ29875], Truncate Segment begin:7513 length:3 file size:7515 new length:2
+Warning File[SZ30447], Truncate Segment begin:3700 length:9 file size:3708 new length:8
+Warning File[SZ28584], Truncate Segment begin:3667 length:5 file size:3671 new length:4
+Warning File[SZ29011], Truncate Segment begin:5707 length:4 file size:5710 new length:3
+Warning File[SZ30521], Truncate Segment begin:3391 length:5 file size:3395 new length:4
+Warning File[SZ30317], Truncate Segment begin:2707 length:548 file size:3254 new length:547
+Warning File[SZ29360], Truncate Segment begin:6743 length:3 file size:6745 new length:2
+Warning File[SZ30508], Truncate Segment begin:3480 length:20 file size:3499 new length:19
+Warning File[SZ28145], Truncate Segment begin:4902 length:2 file size:4903 new length:1
+Warning File[SZ27483], Truncate Segment begin:3122 length:5 file size:3126 new length:4
+Warning File[SZ32320], Truncate Segment begin:5189 length:4 file size:5192 new length:3
+Warning File[SZ31109], Truncate Segment begin:3497 length:3 file size:3499 new length:2
+Warning File[SZ31510], Truncate Segment begin:7349 length:14 file size:7362 new length:13
+Warning File[SZ27226], Truncate Segment begin:3502 length:10 file size:3511 new length:9
+Warning File[SZ30776], Truncate Segment begin:3410 length:48 file size:3457 new length:47
+Warning File[SZ30882], Truncate Segment begin:3537 length:2 file size:3538 new length:1
+Stream mode, nb Stream=1
+Compute global mean and cov
+global mean and cov of training data, number of frame= [3130673]
+mean[0=-2.56089e-11]	cov[1]
+mean[1=-8.55444e-12]	cov[1]
+mean[2=-1.01716e-11]	cov[1]
+mean[3=2.48904e-11]	cov[1]
+mean[4=-2.90002e-11]	cov[1]
+mean[5=1.45008e-11]	cov[1]
+mean[6=9.79514e-12]	cov[1]
+mean[7=1.40594e-11]	cov[1]
+mean[8=-1.50116e-11]	cov[1]
+mean[9=1.62676e-11]	cov[1]
+mean[10=-4.14774e-13]	cov[1]
+mean[11=1.18731e-11]	cov[1]
+mean[12=-5.82636e-13]	cov[1]
+mean[13=-8.52337e-12]	cov[1]
+mean[14=1.38139e-11]	cov[1]
+mean[15=1.12603e-11]	cov[1]
+mean[16=3.93324e-12]	cov[1]
+mean[17=-1.61832e-11]	cov[1]
+mean[18=-1.2619e-11]	cov[1]
+mean[19=1.42733e-11]	cov[1]
+mean[20=2.17947e-11]	cov[1]
+mean[21=2.49521e-11]	cov[1]
+mean[22=-5.9691e-12]	cov[1]
+mean[23=3.68882e-12]	cov[1]
+mean[24=-2.22348e-11]	cov[1]
+mean[25=1.66069e-11]	cov[1]
+mean[26=3.01216e-11]	cov[1]
+mean[27=2.18679e-12]	cov[1]
+mean[28=2.39386e-11]	cov[1]
+mean[29=-9.83428e-12]	cov[1]
+mean[30=-5.99885e-12]	cov[1]
+mean[31=-1.56209e-13]	cov[1]
+mean[32=-2.99169e-11]	cov[1]
+mean[33=1.80616e-11]	cov[1]
+mean[34=1.18312e-11]	cov[1]
+mean[35=-1.01015e-11]	cov[1]
+mean[36=-1.76799e-11]	cov[1]
+mean[37=-1.24831e-11]	cov[1]
+mean[38=-4.04615e-12]	cov[1]
+mean[39=1.57787e-11]	cov[1]
+mean[40=-1.00465e-11]	cov[1]
+mean[41=6.00718e-12]	cov[1]
+mean[42=1.22803e-11]	cov[1]
+mean[43=-7.79721e-12]	cov[1]
+mean[44=1.28377e-11]	cov[1]
+mean[45=-2.69905e-11]	cov[1]
+mean[46=1.30284e-12]	cov[1]
+mean[47=-8.57448e-12]	cov[1]
+mean[48=3.69681e-12]	cov[1]
+mean[49=-3.88768e-11]	cov[1]
+World model init from scratch
+begin of mixtureInit
+baggedMinimalLength[3] MaximalLength[10]
+mixtureInit, total frames with stream weighting[3130673] total frame to select by component[100]
+bagged proba init ok
+Init Stream[0] Bagged by comp=3.1942e-05 It[0]
+Bagged segments, Initial frames[3130673] Selected frames[3361] % selected[0.107357]
+Initialize model
+Nb Frame for mean[0] init =[86]
+Nb Frame for mean[1] init =[101]
+Nb Frame for mean[2] init =[148]
+Nb Frame for mean[3] init =[134]
+Nb Frame for mean[4] init =[97]
+Nb Frame for mean[5] init =[140]
+Nb Frame for mean[6] init =[65]
+Nb Frame for mean[7] init =[103]
+Nb Frame for mean[8] init =[129]
+Nb Frame for mean[9] init =[104]
+Nb Frame for mean[10] init =[123]
+Nb Frame for mean[11] init =[84]
+Nb Frame for mean[12] init =[77]
+Nb Frame for mean[13] init =[80]
+Nb Frame for mean[14] init =[117]
+Nb Frame for mean[15] init =[44]
+Nb Frame for mean[16] init =[124]
+Nb Frame for mean[17] init =[134]
+Nb Frame for mean[18] init =[170]
+Nb Frame for mean[19] init =[110]
+Nb Frame for mean[20] init =[116]
+Nb Frame for mean[21] init =[113]
+Nb Frame for mean[22] init =[33]
+Nb Frame for mean[23] init =[116]
+Nb Frame for mean[24] init =[59]
+Nb Frame for mean[25] init =[107]
+Nb Frame for mean[26] init =[95]
+Nb Frame for mean[27] init =[112]
+Nb Frame for mean[28] init =[84]
+Nb Frame for mean[29] init =[128]
+Nb Frame for mean[30] init =[131]
+Nb Frame for mean[31] init =[97]
+Training parameters 
+nb training iterations:10
+init variance floor:0.01 final floor:0.01
+init variance ceil:10 final ceil:10
+normaliseModel on
+baggedMinimalLength[3] MaximalLength[10]
+LLK Initial model= -70.613
+Train it[0], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[3130673] total frame to select [939201]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[3130673] Selected frames[938956] % selected[29.9921]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (take care, it corresponds to the previous it,0 means init likelihood) =-70.645 Nb Frames=938956
+Train it[1], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[3130673] total frame to select [939201]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[3130673] Selected frames[938404] % selected[29.9745]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (take care, it corresponds to the previous it,0 means init likelihood) =-69.2009 Nb Frames=938404
+Train it[2], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[3130673] total frame to select [939201]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[3130673] Selected frames[935296] % selected[29.8752]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (take care, it corresponds to the previous it,0 means init likelihood) =-67.758 Nb Frames=935296
+Train it[3], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[3130673] total frame to select [939201]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[3130673] Selected frames[939195] % selected[29.9998]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (take care, it corresponds to the previous it,0 means init likelihood) =-67.0764 Nb Frames=939195
+Train it[4], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[3130673] total frame to select [939201]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[3130673] Selected frames[937669] % selected[29.951]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (take care, it corresponds to the previous it,0 means init likelihood) =-66.7892 Nb Frames=937669
+Train it[5], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[3130673] total frame to select [939201]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[3130673] Selected frames[940287] % selected[30.0347]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (take care, it corresponds to the previous it,0 means init likelihood) =-66.6557 Nb Frames=940287
+Train it[6], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[3130673] total frame to select [939201]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[3130673] Selected frames[939670] % selected[30.015]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (take care, it corresponds to the previous it,0 means init likelihood) =-66.5432 Nb Frames=939670
+Train it[7], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[3130673] total frame to select [939201]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[3130673] Selected frames[941796] % selected[30.0829]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[7] (take care, it corresponds to the previous it,0 means init likelihood) =-66.4961 Nb Frames=941796
+Train it[8], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[3130673] total frame to select [939201]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[3130673] Selected frames[942150] % selected[30.0942]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[8] (take care, it corresponds to the previous it,0 means init likelihood) =-66.4637 Nb Frames=942150
+Train it[9], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[3130673] total frame to select [939201]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[3130673] Selected frames[939869] % selected[30.0213]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[9] (take care, it corresponds to the previous it,0 means init likelihood) =-66.4053 Nb Frames=939869
+ Final ll world = -66.3733
+Save world model [world]
